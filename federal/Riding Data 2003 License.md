@@ -1,0 +1,1 @@
+Adapted from Statistics Canada, Census Profile – Federal electoral districts (2003 Representation Order), accessed 17 March 2019. This does not constitute an endorsement by Statistics Canada of this product.
