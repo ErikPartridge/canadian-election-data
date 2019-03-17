@@ -5,4 +5,4 @@ If you're looking to analyze Canadian elections, the data is pretty sparse. This
 Pull requests welcome, please note the source of the data as well as the related license of the data.
 
 
-Riding data contained in this dataset is subject to the [Statistics Canada Open License](https://www.statcan.gc.ca/eng/reference/licence), and the 
+Riding data contained in this dataset is subject to the [Statistics Canada Open License](https://www.statcan.gc.ca/eng/reference/licence). 
