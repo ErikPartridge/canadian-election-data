@@ -1,0 +1,1046 @@
+,Bloc QC,Campaign,Conservative,Date,Error,Green,Liberal,Link,Margin,NDP,Other,Sample,Source,Type
+0,9.5,,38.0,"October 13, 2008",,7.1,22.6,HTML,,22.6,,,Asking Canadians[1],
+1,9.8,,34.8,"October 13, 2008",,9.6,26.4,HTML,,19.4,,,EKOS Research Associates,
+2,9,,37.0,"October 13, 2008",,7,27.0,PDF,,20.0,,,Angus Reid Strategies,
+3,9.5,,34.2,"October 12, 2008",,8.2,26.7,PDF,,21.4,,,Nanos Research,
+4,10,,34.0,"October 12, 2008",,11,26.0,HTML,,18.0,,,EKOS Research Associates,
+5,11,,34.0,"October 12, 2008",,9,25.0,PDF,,19.0,,,Harris-Decima,
+6,10,,33.0,"October 11, 2008",,11,28.0,HTML,,18.0,,,Strategic Counsel,
+7,10,,33.0,"October 11, 2008",,9,27.0,PDF,,22.0,,,Nanos Research,
+8,10,,35.0,"October 11, 2008",,9,26.0,PDF,,18.0,,,Harris-Decima,
+9,10,,34.0,"October 11, 2008",,11,27.0,HTML,,18.0,,,EKOS Research Associates,
+10,9,,35.0,"October 10, 2008",,9,28.0,HTML,,19.0,,,Strategic Counsel,
+11,9,,35.0,"October 10, 2008",,11,25.0,PDF,,18.0,,,Harris-Decima,
+12,10,,32.0,"October 10, 2008",,8,28.0,PDF,,22.0,,,Nanos Research,
+13,9,,38.0,"October 10, 2008",,6,28.0,PDF,,19.0,,,Angus Reid Strategies,
+14,10,,34.0,"October 10, 2008",,11,26.0,HTML,,19.0,,,EKOS Research Associates,
+15,9,,34.0,"October 9, 2008",,8,29.0,HTML,,18.0,,,Ipsos Reid,
+16,10,,35.0,"October 9, 2008",,10,23.0,PDF,,21.0,,,Segma,
+17,10,,33.0,"October 9, 2008",,8,27.0,PDF,,22.0,,,Nanos Research,
+18,9,,34.0,"October 9, 2008",,12,26.0,PDF,,18.0,,,Harris-Decima,
+19,10,,36.0,"October 9, 2008",,11,24.0,HTML,,19.0,,,EKOS Research Associates,
+20,10,,33.0,"October 8, 2008",,7,29.0,PDF,,20.0,,,Nanos Research,
+21,8,,32.0,"October 8, 2008",,12,27.0,PDF,,19.0,,,Harris-Decima,
+22,10,,35.0,"October 8, 2008",,11,24.0,HTML,,20.0,,,EKOS Research Associates,
+23,11,,33.0,"October 7, 2008",,7,29.0,PDF,,20.0,,,Nanos Research,
+24,9,,35.0,"October 7, 2008",,10,27.0,PDF,,18.0,,,Angus Reid Strategies,
+25,8,,31.0,"October 7, 2008",,12,27.0,PDF,,20.0,,,Harris-Decima,
+26,10,,34.0,"October 7, 2008",,11,25.0,HTML,,20.0,,,EKOS Research Associates,
+27,8,,31.0,"October 6, 2008",,13,26.0,PDF,,21.0,,,Harris-Decima,
+28,11,,34.0,"October 6, 2008",,6,31.0,PDF,,18.0,,,Nanos Research,
+29,10,,33.0,"October 6, 2008",,12,26.0,HTML,,19.0,,,EKOS Research Associates,
+30,8,,32.0,"October 5, 2008",,12,25.0,PDF,,21.0,,,Harris-Decima,
+31,11,,34.0,"October 5, 2008",,6,29.0,PDF,,20.0,,,Nanos Research,
+32,10,,35.0,"October 5, 2008",,10,25.0,HTML,,19.0,,,EKOS Research Associates,
+33,8,,34.0,"October 4, 2008",,13,24.0,PDF,,20.0,,,Harris-Decima,
+34,10,,34.0,"October 4, 2008",,7,30.0,PDF,,19.0,,,Nanos Research,
+35,10,,36.0,"October 4, 2008",,10,25.0,HTML,,18.0,,,EKOS Research Associates,
+36,11,,40.0,"October 3, 2008",,6,25.0,PDF,,19.0,,,Angus Reid Strategies,
+37,9,,35.0,"October 3, 2008",,13,22.0,PDF,,20.0,,,Harris-Decima,
+38,10,,35.0,"October 3, 2008",,8,28.0,PDF,,19.0,,,Nanos Research,
+39,10,,36.0,"October 3, 2008",,10,25.0,HTML,,19.0,,,EKOS Research Associates,
+40,11,,37.0,"October 2, 2008",,10,23.0,HTML,,19.0,,,Ipsos Reid,
+41,9,,37.0,"October 2, 2008",,12,22.0,PDF,,18.0,,,Harris-Decima,
+42,10,,35.0,"October 2, 2008",,9,30.0,PDF,,18.0,,,Nanos Research,
+43,10,,36.0,"October 2, 2008",,11,24.0,HTML,,19.0,,,EKOS Research Associates,
+44,9,,36.0,"October 1, 2008",,12,23.0,PDF,,18.0,,,Harris-Decima,
+45,10,,37.0,"October 1, 2008",,8,26.0,PDF,,19.0,,,Nanos Research,
+46,10,,34.0,"October 1, 2008",,11,25.0,HTML,,19.0,,,EKOS Research Associates,
+47,10,,36.0,"September 30, 2008",,11,24.0,PDF,,17.0,,,Harris-Decima,
+48,10,,36.0,"September 30, 2008",,9,26.0,PDF,,20.0,,,Nanos Research,
+49,10,,34.0,"September 30, 2008",,11,25.0,HTML,,20.0,,,EKOS Research Associates,
+50,10,,39.0,"September 29, 2008",,9,24.0,HTML,,19.0,,,Strategic Counsel,
+51,9,,36.0,"September 29, 2008",,11,26.0,PDF,,18.0,,,Harris-Decima,
+52,10,,37.0,"September 29, 2008",,8,26.0,PDF,,20.0,,,Nanos Research,
+53,9,,34.0,"September 29, 2008",,10,27.0,HTML,,19.0,,,EKOS Research Associates,
+54,8,,36.0,"September 28, 2008",,9,26.0,PDF,,19.0,,,Harris-Decima,
+55,9,,36.0,"September 28, 2008",,9,26.0,PDF,,20.0,,,Nanos Research,
+56,10,,34.0,"September 28, 2008",,10,26.0,HTML,,20.0,,,EKOS Research Associates,
+57,9,,36.0,"September 27, 2008",,9,27.0,PDF,,19.0,,,Nanos Research,
+58,9,,36.0,"September 27, 2008",,9,25.0,PDF,,19.0,,,Harris-Decima,
+59,8,,39.0,"September 26, 2008",,9,25.0,PDF,,19.0,,,Nanos Research,
+60,9,,38.0,"September 26, 2008",,9,23.0,PDF,,19.0,,,Harris-Decima,
+61,10,,40.0,"September 25, 2008",,7,21.0,PDF,,21.0,,,Angus Reid Strategies,
+62,9,,39.0,"September 25, 2008",,11,23.0,HTML,,18.0,,,Ipsos Reid,
+63,9,,39.0,"September 25, 2008",,8,24.0,PDF,,19.0,,,Nanos Research,
+64,9,,37.0,"September 25, 2008",,10,24.0,PDF,,18.0,,,Harris-Decima,
+65,10,,35.0,"September 25, 2008",,10,25.0,HTML,,20.0,,,EKOS Research Associates,
+66,9,,40.0,"September 24, 2008",,8,25.0,PDF,,19.0,,,Nanos Research,
+67,10,,36.0,"September 24, 2008",,11,25.0,HTML,,19.0,,,EKOS Research Associates,
+68,9,,36.0,"September 24, 2008",,12,23.0,HTML,,17.0,,,Harris-Decima,
+69,9,,37.0,"September 23, 2008",,11,24.0,HTML,,19.0,,,EKOS Research Associates,
+70,9,,37.0,"September 23, 2008",,12,24.0,PDF,,16.0,,,Harris-Decima,
+71,9,,37.0,"September 23, 2008",,7,26.0,PDF,,21.0,,,Nanos Research,
+72,8,,36.0,"September 22, 2008",,12,25.0,HTML,,19.0,,,EKOS Research Associates,
+73,8,,38.0,"September 22, 2008",,6,27.0,PDF,,21.0,,,Nanos Research,
+74,8,,37.0,"September 22, 2008",,11,24.0,HTML,,17.0,,,Harris-Decima,
+75,8,,37.0,"September 21, 2008",,12,24.0,HTML,,19.0,,,EKOS Research Associates,
+76,7,,35.0,"September 21, 2008",,6,30.0,PDF,,22.0,,,Nanos Research,
+77,8,,38.0,"September 21, 2008",,12,23.0,PDF,,17.0,,,Harris-Decima,
+78,7,,36.0,"September 20, 2008",,7,31.0,PDF,,20.0,,,Nanos Research,
+79,8,,39.0,"September 20, 2008",,11,23.0,PDF,,17.0,,,Harris-Decima,
+80,7,,38.0,"September 19, 2008",,7,29.0,PDF,,18.0,,,Nanos Research,
+81,8,,38.0,"September 19, 2008",,12,23.0,PDF,,17.0,,,Harris-Decima,
+82,9,,38.0,"September 18, 2008",,10,24.0,PDF,,19.0,,,Angus Reid Strategies,
+83,8,,40.0,"September 18, 2008",,10,27.0,HTML,,15.0,,,Ipsos Reid,
+84,8,,36.0,"September 18, 2008",,13,25.0,HTML,,18.0,,,EKOS Research Associates,
+85,7,,39.0,"September 18, 2008",,7,28.0,PDF,,18.0,,,Nanos Research,
+86,8,,38.0,"September 18, 2008",,12,25.0,PDF,,15.0,,,Harris-Decima,
+87,7,,39.0,"September 17, 2008",,6,30.0,PDF,,18.0,,,Nanos Research,
+88,8,,36.0,"September 17, 2008",,11,27.0,PDF,,16.0,,,Harris-Decima,
+89,8,,38.0,"September 17, 2008",,12,24.0,HTML,,18.0,,,EKOS Research Associates,
+90,7,,38.0,"September 16, 2008",,7,31.0,PDF,,17.0,,,Nanos Research,
+91,8,,38.0,"September 16, 2008",,10,28.0,PDF,,15.0,,,Harris-Decima,
+92,8,,38.0,"September 16, 2008",,11,24.0,HTML,,19.0,,,EKOS Research Associates,
+93,6,,38.0,"September 15, 2008",,8,31.0,PDF,,17.0,,,Nanos Research,
+94,8,,38.0,"September 15, 2008",,10,27.0,PDF,,16.0,,,Harris-Decima,
+95,9,,38.0,"September 15, 2008",,11,23.0,HTML,,19.0,,,EKOS Research Associates,
+96,7,,42.0,"September 15, 2008",,10,23.0,PDF,,16.0,,,Segma,
+97,6,,37.0,"September 14, 2008",,9,31.0,PDF,,18.0,,,Nanos Research,
+98,8,,38.0,"September 14, 2008",,9,27.0,PDF,,16.0,,,Harris-Decima,
+99,9,,35.0,"September 14, 2008",,11,25.0,HTML,,19.0,,,EKOS Research Associates,
+100,8,,38.0,"September 13, 2008",,11,29.0,HTML,,13.0,,,Ipsos Reid,
+101,8,,40.0,"September 13, 2008",,9,26.0,PDF,,15.0,,,Harris-Decima,
+102,6,,38.0,"September 13, 2008",,9,30.0,PDF,,17.0,,,Nanos Research,
+103,9,,39.0,"September 12, 2008",,10,23.0,PDF,,18.0,,,Angus Reid Strategies,
+104,9,,38.0,"September 12, 2008",,9,30.0,PDF,,15.0,,,Nanos Research,
+105,8,,36.0,"September 11, 2008",,11,26.0,HTML,,19.0,,,EKOS Research Associates,
+106,8,,38.0,"September 11, 2008",,11,29.0,HTML,,13.0,,,Ipsos Reid,
+107,9,,38.0,"September 11, 2008",,9,31.0,HTML,,14.0,,,Nanos Research,
+108,8,,41.0,"September 11, 2008",,9,26.0,HTML,,14.0,,,Harris-Decima,
+109,9,,37.0,"September 10, 2008",,9,32.0,HTML,,13.0,,,Nanos Research,
+110,8,,37.0,"September 9, 2008",,10,26.0,HTML,,19.0,,,EKOS Research Associates,
+111,9,,38.0,"September 9, 2008",,7,24.0,PDF,,21.0,,,Angus Reid Strategies,
+112,9,,36.0,"September 8, 2008",,9,28.0,PDF,,15.0,,,Harris-Decima,
+113,8,,43.0,"September 6, 2008",,7,25.0,PDF,,15.0,,,Segma,
+114,10,,38.0,"September 4, 2008",,11,26.0,HTML,,15.0,,,EKOS Research Associates,
+115,6,,37.0,"September 3, 2008",,10,24.0,HTML,,19.0,,,EKOS Research Associates,
+116,8,,38.0,"September 2, 2008",,7,28.0,HTML,,19.0,,,Environics,
+117,8,,37.0,"August 31, 2008",,9,29.0,PDF,,17.0,,,Strategic Counsel,
+118,-,,34.0,"August 28, 2008",,10,31.0,HTML,,14.0,,,Ipsos Reid,
+119,9,,36.0,"August 28, 2008",,8,28.0,PDF,,18.0,,,Angus Reid Strategies,
+120,9,,33.0,"August 28, 2008",,10,31.0,HTML,,16.0,,,Ipsos Reid,
+121,8,,33.0,"August 27, 2008",,7,35.0,PDF,,17.0,,,Nanos Research,
+122,7,,33.0,"August 24, 2008",,9,34.0,PDF,,15.0,,,Harris-Decima,
+123,9,,36.0,"August 14, 2008",,10,30.0,HTML,,14.0,,,Ipsos Reid,
+124,6,,32.0,"August 10, 2008",,13,33.0,PDF,,15.0,,,Harris-Decima,
+125,9,,34.0,"July 31, 2008",,11,30.0,HTML,,14.0,,,Ipsos Reid,
+126,9,,35.0,"July 30, 2008",,8,30.0,PDF,,17.0,,,Angus Reid Strategies,
+127,11,,33.0,"July 10, 2008",,10,32.0,HTML,,13.0,,,Ipsos Reid,
+128,10,,35.0,"July 5, 2008",,8,30.0,HTML,,17.0,,,Environics,
+129,10,,30.0,"June 29, 2008",,12,31.0,PDF,,16.0,,,Harris-Decima,
+130,9,,33.0,"June 24, 2008",,7,30.0,PDF,,19.0,,,Angus Reid Strategies,
+131,10,,32.0,"June 9, 2008",,10,30.0,HTML,,18.0,,,Strategic Counsel,
+132,6,,32.0,"June 8, 2008",,12,31.0,HTML,,15.0,,,Harris-Decima,
+133,9,,36.0,"May 29, 2008",,11,29.0,HTML,,14.0,,,Ipsos-Reid,
+134,11,,34.0,"May 19, 2008",,8,27.0,HTML,,18.0,,,Angus Reid Strategies,
+135,11,,33.0,"May 11, 2008",,8,34.0,PDF,,15.0,,,Nanos Research,
+136,9,,34.0,"May 11, 2008",,10,31.0,HTML,,16.0,,,Strategic Counsel,
+137,-,,35.0,"May 8, 2008",,9,32.0,HTML,,14.0,,,Ipsos-Reid,
+138,-,,34.0,"May 1, 2008",,11,29.0,HTML,,17.0,,,Ipsos-Reid,
+139,8,,33.0,"April 23, 2008",,8,30.0,PDF,,20.0,,,Angus Reid Strategies,
+140,-,,32.0,"April 21, 2008",,-,33.0,HTML,,14.0,,,Harris-Decima,
+141,9,,30.0,"April 13, 2008",,11,33.0,HTML,,16.0,,,Harris-Decima,
+142,8,,36.0,"April 13, 2008",,10,30.0,HTML,,15.0,,,Strategic Counsel,
+143,-,,35.0,"April 10, 2008",,10,30.0,HTML,,16.0,,,Ipsos-Reid,
+144,9,,36.0,"April 9, 2008",,9,30.0,HTML,,15.0,,,Segma,
+145,8,,36.0,"April 9, 2008",,6,36.0,PDF,,14.0,,,Nanos Research,
+146,13,,35.0,"April 7, 2008",,7,28.0,HTML,,17.0,,,Environics,
+147,9,,31.0,"April 6, 2008",,12,32.0,HTML,,15.0,,,Harris-Decima,
+148,9,,32.0,"March 30, 2008",,12,30.0,HTML,,13.0,,,Harris-Decima,
+149,9,,36.0,"March 28, 2008",,9,26.0,HTML,,18.0,,,Angus Reid Strategies,
+150,10,,35.0,"March 20, 2008",,8,33.0,HTML,,13.0,,,Ipsos-Reid,
+151,9,,32.0,"March 16, 2008",,8,32.0,HTML,,17.0,,,Harris-Decima,
+152,10,,38.0,"March 16, 2008",,12,27.0,HTML,,14.0,,,Strategic Counsel,
+153,9,,35.0,"March 6, 2008",,9,31.0,HTML,,15.0,,,Ipsos-Reid,
+154,8,,31.0,"March 2, 2008",,13,30.0,HTML,,17.0,,,Harris-Decima,
+155,10,,34.0,"March 2, 2008",,9,28.0,HTML,,18.0,,,Angus Reid Strategies,
+156,10,,34.0,"February 20, 2008",,8,34.0,PDF,,14.0,,,Nanos Research,
+157,9,,34.0,"February 18, 2008",,8,31.0,HTML,,17.0,,,Angus Reid Strategies,
+158,8,,35.0,"February 17, 2008",,9,33.0,PDF,,13.0,,,Harris-Decima,
+159,10,,39.0,"February 17, 2008",,12,27.0,HTML,,12.0,,,Strategic Counsel,
+160,9,,36.0,"February 14, 2008",,10,29.0,HTML,,13.0,,,Ipsos-Reid,
+161,8,,37.0,"February 10, 2008",,7,32.0,PDF,,16.0,,,Léger Marketing,
+162,10,,31.0,"February 4, 2008",,8,33.0,PDF,,19.0,,,Nanos Research,
+163,8,,33.0,"January 31, 2008",,8,33.0,HTML,,18.0,,,UniMarketing,
+164,9,,29.0,"January 27, 2008",,12,32.0,HTML,,16.0,,,Harris-Decima,
+165,-,,37.0,"January 24, 2008",,10,29.0,HTML,,14.0,,,Ipsos-Reid,
+166,11,,36.0,"January 13, 2008",,10,30.0,PDF,,14.0,,,Strategic Counsel,
+167,9,,33.0,"January 10, 2008",,9,35.0,HTML,,13.0,,,Ipsos-Reid,
+168,10,,37.0,"January 6, 2008",,9,30.0,PDF,,13.0,,,Harris-Decima,
+169,13,,36.0,"January 3, 2008",,7,22.0,HTML,,17.0,,,Environics,
+170,8,,35.0,"December 20, 2007",,8,33.0,HTML,,15.0,,,Ipsos-Reid,
+171,11,,30.0,"December 17, 2007",,12,32.0,HTML,,15.0,,,Harris-Decima,
+172,10,,33.0,"December 14, 2007",,10,28.0,PDF,,17.0,,,Angus Reid Strategies,
+173,10,,32.0,"December 9, 2007",,13,29.0,PDF,,16.0,,,Strategic Counsel,
+174,10,,35.0,"December 6, 2007",,9,29.0,HTML,,16.0,,,Ipsos-Reid,
+175,8,,36.0,"December 2, 2007",,11,28.0,HTML,,17.0,,,Harris-Decima,
+176,8,,39.0,"November 22, 2007",,8,29.0,HTML,,15.0,,,Ipsos-Reid,
+177,8,,36.0,"November 19, 2007",,9,28.0,PDF,,17.0,,,Harris-Decima,
+178,11,,34.0,"November 13, 2007",,8,31.0,PDF,,16.0,,,Strategic Counsel,
+179,8,,33.0,"November 12, 2007",,12,29.0,HTML,,17.0,,,Harris-Decima,
+180,11,,32.0,"November 11, 2007",,13,32.0,PDF,,12.0,,,Strategic Counsel,
+181,9,,35.0,"November 8, 2007",,6,34.0,PDF,,17.0,,,SES Research,
+182,8,,42.0,"November 8, 2007",,7,28.0,HTML,,15.0,,,Ipsos-Reid,
+183,12,,39.0,"November 1, 2007",,7,28.0,HTML,,13.0,,,Ipsos-Reid,
+184,9,,33.0,"October 29, 2007",,10,29.0,HTML,,17.0,,,Harris-Decima,
+185,9,,39.0,"October 25, 2007",,8,27.0,HTML,,17.0,,,Ipsos-Reid,
+186,10,,36.0,"October 18, 2007",,9,25.0,HTML,,19.0,,,Unimarketing,
+187,9,,40.0,"October 18, 2007",,8,27.0,HTML,,14.0,,,Ipsos-Reid,
+188,9,,34.0,"October 17, 2007",,9,29.0,HTML,,17.0,,,Angus Reid Strategies,
+189,7,,33.0,"October 14, 2007",,11,29.0,HTML,,19.0,,,Environics,
+190,10,,34.0,"October 14, 2007",,12,29.0,HTML,,15.0,,,Strategic Counsel,
+191,8,,40.0,"October 13, 2007",,7,28.0,HTML,,16.0,,,Ipsos-Reid,
+192,8,,35.0,"October 9, 2007",,10,28.0,HTML,,17.0,,,Harris-Decima,
+193,7,,33.0,"October 3, 2007",,10,31.0,HTML,,16.0,,,Harris-Decima,
+194,5,,32.0,"September 18, 2007",,14,29.0,HTML,,17.0,,,Harris-Decima,
+195,9,,33.0,"August 23, 2007",,9,29.0,HTML,,19.0,,,Angus Reid Strategies,
+196,10,,36.0,"August 14, 2007",,8,33.0,PDF,,13.0,,,SES Research,
+197,10,,33.0,"August 12, 2007",,8,33.0,PDF,,17.0,,,Strategic Counsel,
+198,8,,34.0,"July 27, 2007",,8,32.0,HTML,,17.0,,,Ipsos-Reid,
+199,9,,33.0,"July 18, 2007",,8,28.0,PDF,,19.0,,,Angus Reid Strategies,
+200,10,,31.0,"July 15, 2007",,10,31.0,HTML,,17.0,,,Strategic Counsel,
+201,7,,37.0,"June 30, 2007",,11,28.0,HTML,,17.0,,,Environics,
+202,10,,34.0,"June 18, 2007",,8,27.0,PDF,,19.0,,,Angus Reid Strategies,
+203,9,,29.0,"June 11, 2007",,9,32.0,HTML,,18.0,,,Decima,
+204,10,,34.0,"May 31, 2007",,9,31.0,HTML,,16.0,,,Ipsos Reid,
+205,8,,37.0,"May 27, 2007",,9,30.0,PDF,,14.0,,,Léger Marketing,
+206,7,,37.0,"May 24, 2007",,9,31.0,HTML,,16.0,,,Ipsos Reid,
+207,9,,35.0,"May 23, 2007",,9,28.0,HTML,,18.0,,,Angus Reid Strategies,
+208,8,,33.0,"May 20, 2007",,10,31.0,HTML,,17.0,,,Decima,
+209,10,,34.0,"May 17, 2007",,9,31.0,HTML,,16.0,,,Strategic Counsel,
+210,9,,36.0,"May 17, 2007",,7,32.0,HTML,,14.0,,,Ipsos Reid,
+211,9,,31.0,"May 10, 2007",,9,32.0,HTML,,17.0,,,Ipsos Reid,
+212,9,,32.0,"May 3, 2007",,10,33.0,HTML,,17.0,,,SES Research,
+213,9,,35.0,"May 3, 2007",,7,34.0,HTML,,14.0,,,Ipsos Reid,
+214,9,,30.0,"April 29, 2007",,13,31.0,HTML,,15.0,,,Decima,
+215,8,,38.0,"April 26, 2007",,8,31.0,HTML,,14.0,,,Ipsos Reid,
+216,9,,36.0,"April 24, 2007",,12,30.0,PDF,,13.0,,,Strategic Counsel,
+217,8,,30.0,"April 21, 2007",,11,29.0,HTML,,18.0,,,Decima Research,
+218,9,,39.0,"April 19, 2007",,7,29.0,HTML,,16.0,,,Ipsos Reid,
+219,7,,34.0,"April 15, 2007",,11,31.0,HTML,,15.0,,,Decima Research,
+220,8,,38.0,"April 12, 2007",,8,32.0,HTML,,14.0,,,Ipsos Reid,
+221,10,,36.0,"April 5, 2007",,6,33.0,PDF,,16.0,,,SES Research,
+222,8,,39.0,"April 5, 2007",,8,30.0,HTML,,13.0,,,Decima Research,
+223,8,,36.0,"April 3, 2007",,12,28.0,HTML,,16.0,,,Environics,
+224,8,,36.0,"March 28, 2007",,9,31.0,HTML,,15.0,,,Ipsos Reid,
+225,10,,39.0,"March 28, 2007",,11,22.0,PDF,,17.0,,,Angus Reid Strategies,
+226,8,,35.0,"March 25, 2007",,10,31.0,HTML,,13.0,,,Decima Research,
+227,9,,41.0,"March 25, 2007",,6,27.0,HTML,,14.0,,,Léger Marketing,
+228,9,,40.0,"March 22, 2007",,7,29.0,HTML,,14.0,,,Ipsos-Reid,
+229,8,,39.0,"March 21, 2007",,9,31.0,HTML,,13.0,,,Strategic Counsel,
+230,9,,36.0,"March 15, 2007",,8,34.0,HTML,,12.0,,,Ipsos-Reid,
+231,9,,36.0,"March 13, 2007",,10,31.0,HTML,,15.0,,,Strategic Counsel,
+232,10,,38.0,"March 7, 2007",,8,28.0,HTML,,15.0,,,Angus Reid Strategies,
+233,7,,35.0,"March 4, 2007",,11,29.0,HTML,,15.0,,,Decima Research,
+234,8,,36.0,"March 3, 2007",,8,32.0,HTML,,15.0,,,Ipsos-Reid,
+235,10,,40.0,"February 27, 2007",,8,26.0,HTML,,15.0,,,Angus Reid Strategies,
+236,8,,36.0,"February 26, 2007",,13,27.0,HTML,,13.0,,,Decima Research,
+237,9,,36.0,"February 24, 2007",,8,34.0,HTML,,13.0,,,Ipsos-Reid,
+238,9,,32.0,"February 18, 2007",,11,30.0,HTML,,15.0,,,Decima Research,
+239,11,,34.0,"February 18, 2007",,12,29.0,HTML,,14.0,,,Strategic Counsel,
+240,9,,32.0,"February 12, 2007",,8,33.0,HTML,,15.0,,,Decima Research,
+241,10,,33.0,"February 8, 2007",,7,33.0,PDF,,17.0,,,SES Research,
+242,8,,38.0,"February 4, 2007",,7,31.0,PDF,,14.0,,,Léger Marketing,
+243,13,,32.0,"January 22, 2007",,9,33.0,HTML,,13.0,,,Decima Research,
+244,8,,35.0,"January 21, 2007",,9,32.0,HTML,,13.0,,,Léger Marketing,
+245,-,,33.0,"January 18, 2007",,-,37.0,HTML,,13.0,,,Ipsos-Reid,
+246,10,,32.0,"January 15, 2007",,9,33.0,HTML,,13.0,,,Decima Research,
+247,11,,31.0,"January 14, 2007",,8,35.0,HTML,,15.0,,,Strategic Counsel,
+248,8,,34.0,"December 30, 2006",,11,32.0,HTML,,14.0,,,Environics,
+249,10,,34.0,"December 30, 2006",,8,31.0,HTML,,15.0,,,Decima Research,
+250,10,,34.0,"December 14, 2006",,5,36.0,HTML,,13.0,,,Ipsos-Reid,
+251,11,,32.0,"December 13, 2006",,7,35.0,HTML,,12.0,,,Decima Research,
+252,9,,33.0,"December 9, 2006",,8,40.0,HTML,,10.0,,,EKOS,
+253,11,,32.0,"December 7, 2006",,5,38.0,HTML,,13.0,,,Ipsos-Reid,
+254,10,,31.0,"December 3, 2006",,11,35.0,PDF,,12.0,,,Decima Research,
+255,11,,31.0,"December 3, 2006",,7,37.0,HTML,,14.0,,,Strategic Counsel,
+256,10,,34.0,"November 26, 2006",,6,32.0,HTML,,15.0,,,Léger Marketing,
+257,10,,31.0,"November 13, 2006",,10,33.0,HTML,,15.0,,,Decima Research,
+258,13,,34.0,"November 9, 2006",,5,32.0,PDF,,16.0,,,SES Research,
+259,9,,33.0,"November 6, 2006",,5,32.0,HTML,,19.0,,,Environics,
+260,10,,31.0,"November 5, 2006",,9,28.0,HTML,,18.0,,,Decima Research,
+261,9,,37.0,"November 2, 2006",,5,29.0,HTML,,19.0,,,Ipsos-Reid,
+262,11,,32.0,"October 16, 2006",,10,30.0,HTML[permanent dead link],,15.0,,,Decima Research,
+263,11,,32.0,"October 15, 2006",,9,32.0,HTML[permanent dead link],,17.0,,,Strategic Counsel,
+264,9.9,,36.0,"October 12, 2006",,6.2,31.7,HTML,,16.2,,,EKOS,
+265,9,,37.0,"October 12, 2006",,7,28.0,,,18.0,,,Environics,
+266,12,,35.0,"September 17, 2006",,8,26.0,HTML,,19.0,,,Strategic Counsel,
+267,8.4,,38.7,"September 14, 2006",,7.0,28.8,PDF,,17.0,,,EKOS,
+268,11,,34.0,"September 4, 2006",,10,30.0,,,14.0,,,Decima Research,
+269,10,,33.0,"August 28, 2006",,8,28.0,PDF,,19.0,,,Decima Research,
+270,10,,38.0,"August 24, 2006",,5,29.0,,,17.0,,,Ipsos-Reid,
+271,11,,36.0,"August 23, 2006",,5,30.0,PDF,,18.0,,,SES Research,
+272,10,,36.0,"August 13, 2006",,7,29.0,PDF,,15.0,,,Decima Research,
+273,11,,32.0,"July 31, 2006",,8,31.0,PDF,,16.0,,,Decima Research,
+274,11,,38.0,"July 30, 2006",,8,29.0,HTML,,15.0,,,Strategic Counsel,
+275,10,,39.0,"July 27, 2006",,7,27.0,HTML,,17.0,,,Ipsos-Reid,
+276,-,,36.0,"July 23, 2006",,-,30.0,HTML[permanent dead link],,17.0,,,Decima Research,
+277,11,,36.0,"July 16, 2006",,-,30.0,PDF,,19.0,,,"Decima Research
+(without Greens)",
+278,10,,36.0,"July 16, 2006",,8,29.0,PDF,,16.0,,,"Decima Research
+(with Greens)",
+279,11,,37.0,"July 16, 2006",,8,26.0,HTML,,18.0,,,Strategic Counsel,
+280,9,,39.0,"June 23, 2006",,4,25.0,HTML,,21.0,,,Environics,
+281,10,,38.0,"June 18, 2006",,-,28.0,HTML,,19.0,,,Decima Research,
+282,9,,36.0,"June 8, 2006",,9,27.0,PDF,,19.0,,,Strategic Counsel,
+283,8,,38.0,"May 28, 2006",,-,29.0,PDF,,21.0,,,Decima Research,
+284,9,,43.0,"May 18, 2006",,5,25.0,HTML,,15.0,,,Ipsos-Reid,
+285,9,,38.0,"May 9, 2006",,6,28.0,PDF,,19.0,,,SES Research,
+286,10,,35.0,"May 3, 2006",,9,31.0,HTML,,16.0,,,Strategic Counsel,
+287,10,,41.0,"April 23, 2006",,-,26.0,HTML,,19.0,,,Decima Research,
+288,11,,39.0,"April 9, 2006",,5,29.0,HTML,,14.0,,,Strategic Counsel,
+289,10,,41.0,"March 31, 2006",,5,22.0,HTML,,21.0,,,Environics,
+290,11,,39.0,"March 26, 2006",,-,28.0,HTML,,19.0,,,Decima Research,
+291,9,,38.0,"March 23, 2006",,5,28.0,HTML,,19.0,,,Ipsos-Reid,
+292,10,,37.0,"March 13, 2006",,-,28.0,HTML,,19.0,,,Decima Research,
+293,10,,35.0,"February 27, 2006",,-,28.0,HTML,,21.0,,,Decima Research,
+294,8,,39.0,"February 23, 2006",,5,27.0,HTML,,20.0,,,Ipsos-Reid,
+295,8,,39.0,"February 21, 2006",,-,28.0,HTML,,19.0,,,Strategic Counsel,
+296,8,,35.0,"February 13, 2006",,-,25.0,PDF,,24.0,,,Decima Research,
+297,9,,33.0,"February 9, 2006",,7,34.0,PDF,,18.0,,,SES Research,
+0,5.0,True,36.0,"May 1, 2011",,6.0,19.0,HTML,±1.6 pp,33.0,,,Forum Research,Phone (IVR)
+1,6.4,True,33.9,"May 1, 2011",,6.0,21.0,PDF,±1.8 pp,31.2,1.5,,EKOS Research Associates[note 1],Phone (IVR)
+2,5.7,True,37.1,"May 1, 2011",,3.8,20.5,PDF,±3.0 pp,31.6,1.4,,Nanos Research[note 1],Phone
+3,6.0,True,36.0,"May 1, 2011",,6.0,19.0,PDF,±3.1 pp,30.0,,,Harris-Decima,Phone
+4,5.4,True,34.6,"April 30, 2011",,6.3,20.4,PDF,±1.8 pp,31.4,1.8,,EKOS Research Associates[note 1],Phone (IVR)
+5,5.0,True,35.0,"April 30, 2011",,7.0,19.0,HTML 2,±1.6 pp,33.0,,,Forum Research,Phone (IVR)
+6,5.5,True,37.0,"April 30, 2011",,3.2,22.7,PDF,±3.0 pp,30.6,,,Nanos Research[note 1],Phone
+7,7.0,True,37.0,"April 29, 2011",,7.0,18.0,PDF,±3.2 pp,32.0,,,Abacus Data,Online
+8,7.0,True,46.0,"April 29, 2011",,4.0,17.0,PDF,±3.6 pp,26.0,,,COMPAS,Phone
+9,5.2,True,38.0,"April 29, 2011",,3.1,23.3,PDF,±3.0 pp,29.6,,,Nanos Research[note 1],Phone
+10,6.0,True,37.0,"April 29, 2011",,4.0,19.0,PDF,±2.2 pp,33.0,,,Angus Reid Public Opinion,Online
+11,7.0,True,36.0,"April 28, 2011",,4.0,21.0,PDF,±1.7 pp,31.0,,,Leger Marketing,Online
+12,6.0,True,38.0,"April 28, 2011",,4.0,18.0,HTML,±3.1 pp,33.0,,,Ipsos Reid,Phone
+13,6.3,True,34.5,"April 28, 2011",,6.9,20.0,PDF,±1.8 pp,29.7,2.7,,EKOS Research Associates[note 1],Phone (IVR)
+14,5.7,True,36.4,"April 28, 2011",,4.0,22.0,PDF,±3.1 pp,31.2,,,Nanos Research[note 1],Phone
+15,5.0,True,35.0,"April 27, 2011",,7.0,22.0,HTML,±3.1 pp,30.0,,,Harris-Decima,Phone
+16,6.1,True,34.8,"April 27, 2011",,6.8,22.3,PDF,±1.9 pp,27.5,2.5,,EKOS Research Associates[note 1],Phone (IVR)
+17,6.0,True,36.6,"April 27, 2011",,4.1,21.9,PDF,±3.1 pp,30.4,,,Nanos Research[note 1],Phone
+18,6.6,True,34.0,"April 26, 2011",,6.5,22.9,PDF,±1.9 pp,28.1,1.9,,EKOS Research Associates[note 1],Phone (IVR)
+19,6.0,True,34.0,"April 26, 2011",,7.0,22.0,HTML,±1.8 pp,31.0,,,Forum Research,Phone (IVR)
+20,5.8,True,37.8,"April 26, 2011",,4.7,22.9,PDF,±3.1 pp,27.8,,,Nanos Research[note 1],Phone
+21,7.0,True,35.0,"April 26, 2011",,5.0,22.0,PDF,±2.2 pp,30.0,1.0,,Angus Reid Public Opinion,Online
+22,6.0,True,33.9,"April 25, 2011",,6.8,24.0,PDF,±2.0 pp,27.9,1.4,,EKOS Research Associates[note 1],Phone (IVR)
+23,6.4,True,38.4,"April 25, 2011",,5.3,24.9,HTML,±2.49 pp,23.9,,,Innovative Research Group,Phone
+24,6.2,True,33.7,"April 24, 2011",,7.2,23.7,PDF,±1.9 pp,28.0,1.2,,EKOS Research Associates,Phone (IVR)
+25,6.5,True,39.2,"April 24, 2011",,3.6,25.6,PDF,±3.1 pp,23.6,,,Nanos Research[note 1],Phone
+26,7.2,True,38.6,"April 23, 2011",,3.7,25.9,PDF,±3.1 pp,23.2,,,Nanos Research[note 1],Phone
+27,7.0,True,39.0,"April 21, 2011",,6.0,22.0,HTML,±3.2 pp,25.0,1.0,,Environics,Phone
+28,7.4,True,37.8,"April 21, 2011",,3.5,26.1,PDF,±3.1 pp,23.7,,,Nanos Research[note 1],Phone
+29,6.0,True,43.0,"April 20, 2011",,4.0,21.0,HTML,±3.1 pp,24.0,,,Ipsos Reid,Phone
+30,6.0,True,36.0,"April 20, 2011",,6.0,23.0,HTML,±2.2 pp,25.0,,,Forum Research,Phone (IVR)
+31,7.5,True,39.0,"April 20, 2011",,3.4,26.7,PDF,±3.1 pp,22.1,,,Nanos Research[note 1],Phone
+32,6.5,True,34.4,"April 20, 2011",,7.8,24.7,PDF,±2.2 pp,24.7,1.9,,EKOS Research Associates,Phone (IVR)
+33,7.7,True,39.1,"April 19, 2011",,3.9,28.4,PDF,±3.1 pp,19.8,,,Nanos Research[note 1],Phone
+34,8.6,True,39.8,"April 18, 2011",,3.1,30.2,PDF,±3.1 pp,17.3,,,Nanos Research[note 1],Phone
+35,9.0,True,39.0,"April 17, 2011",,6.0,28.0,PDF,±2.25 pp,17.0,1.0,,Innovative Research Group,Phone
+36,9.0,True,39.0,"April 17, 2011",,6.0,24.0,HTML,±3.2 pp,22.0,1.0,,Environics,Phone
+37,7.8,True,37.4,"April 17, 2011",,8.4,24.9,PDF,±2.2 pp,20.0,1.5,,EKOS Research Associates,Phone (IVR)
+38,8.0,True,36.0,"April 17, 2011",,7.0,28.0,PDF[dead link],±3.1 pp,19.0,,,Harris-Decima,Phone
+39,8.6,True,39.8,"April 17, 2011",,3.4,29.8,PDF,±3.1 pp,17.4,,,Nanos Research[note 1],Phone
+40,8.0,True,38.0,"April 17, 2011",,5.0,26.0,PDF,±1.7 pp,22.0,,,Leger Marketing,Online
+41,9.0,True,36.0,"April 16, 2011",,5.0,25.0,PDF,±2.2,25.0,,,Angus Reid Public Opinion,Online
+42,9.6,True,39.0,"April 16, 2011",,3.6,28.3,PDF,±3.1 pp,18.4,,,Nanos Research[note 1],Phone
+43,8.0,True,37.0,"April 15, 2011",,5.0,29.0,PDF,±3.2 pp,20.0,,,Abacus Data,Online
+44,8.5,True,38.8,"April 15, 2011",,3.4,28.8,PDF,±3.1 pp,19.2,,,Nanos Research[note 1],Phone
+45,7.0,True,36.0,"April 14, 2011",,8.0,25.0,HTML,±2.2 pp,22.0,,,Forum Research,Phone
+46,7.1,True,35.3,"April 14, 2011",,9.6,27.8,PDF,±2.8 pp,18.0,2.1,,EKOS Research Associates,Phone (IVR)
+47,9.0,True,38.7,"April 14, 2011",,3.7,28.8,PDF,±3.1 pp,18.6,,,Nanos Research[note 1],Phone
+48,7.5,True,38.9,"April 13, 2011",,3.1,31.1,PDF,±3.1 pp,18.3,,,Nanos Research[note 1],Phone
+49,7.8,True,33.8,"April 12, 2011",,9.0,28.8,PDF,±2.9 pp,19.1,1.5,,EKOS Research Associates,Phone (IVR)
+50,9.1,True,39.9,"April 12, 2011",,3.8,30.4,PDF,±3.1 pp,16.3,,,Nanos Research[note 1],Phone
+51,8.0,True,45.0,"April 11, 2011",,7.0,24.0,PDF,±2.1 pp,16.0,,,COMPAS,Phone
+52,9.0,True,39.0,"April 11, 2011",,7.0,28.0,HTML,±2.16 pp,17.0,,,Innovative Research Group,Online
+53,7.8,True,39.7,"April 11, 2011",,4.0,31.2,PDF,±3.1 pp,16.8,,,Nanos Research[note 1],Phone
+54,8.0,True,40.0,"April 10, 2011",,8.0,28.0,PDF,±3.1 pp,15.0,,,Harris-Decima,Phone
+55,7.8,True,41.2,"April 10, 2011",,4.6,30.4,PDF,±3.1 pp,15.2,,,Nanos Research[note 1],Phone
+56,8.1,True,39.5,"April 9, 2011",,4.8,31.6,PDF,±3.1 pp,14.7,,,Nanos Research[note 1],Phone
+57,9.0,True,36.0,"April 8, 2011",,9.0,25.0,PDF,±3.1 pp,18.0,,,TNS Canada,Phone
+58,9.2,True,40.5,"April 8, 2011",,4.0,31.7,PDF,±3.1 pp,13.2,,,Nanos Research[note 1],Phone
+59,9.0,True,41.0,"April 7, 2011",,4.0,26.0,HTML,±3.1 pp,19.0,,,Ipsos Reid,Phone
+60,8.3,True,36.2,"April 7, 2011",,8.5,27.7,PDF,±2.1 pp,16.6,2.8,,EKOS Research Associates,Phone (IVR)
+61,8.7,True,40.6,"April 7, 2011",,3.4,31.1,PDF,±3.1 pp,14.7,,,Nanos Research[note 1],Phone
+62,8.0,True,38.0,"April 6, 2011",,9.0,26.0,HTML,±2.2 pp,20.0,,,Forum Research,Phone
+63,8.3,True,39.6,"April 6, 2011",,3.2,30.4,PDF,±3.1 pp,17.2,,,Nanos Research[note 1],Phone
+64,8.0,True,38.0,"April 5, 2011",,8.0,25.0,PDF,±3.1 pp,20.0,,,Environics,Phone
+65,8.0,True,38.0,"April 5, 2011",,6.0,27.0,PDF,±2.2,21.0,,,Angus Reid Public Opinion,Online
+66,6.9,True,37.0,"April 5, 2011",,9.3,27.8,PDF,±3.0 pp,16.1,2.9,,EKOS Research Associates,Phone (IVR)
+67,8.3,True,39.7,"April 5, 2011",,3.8,29.9,PDF,±3.1 pp,17.4,,,Nanos Research[note 1],Phone
+68,8.3,True,39.8,"April 4, 2011",,4.0,30.2,PDF,±3.1 pp,16.5,,,Nanos Research[note 1],Phone
+69,10.0,True,35.0,"April 3, 2011",,8.0,28.0,PDF,±3.1 pp,17.0,,,Harris-Decima,Phone
+70,8.0,True,42.3,"April 3, 2011",,3.8,28.4,PDF,±3.1 pp,16.4,,,Nanos Research[note 1],Phone
+71,10.0,True,37.0,"April 2, 2011",,8.0,26.0,PDF,±1.7 pp,18.0,,,Leger Marketing,Online
+72,8.0,True,40.7,"April 2, 2011",,4.0,29.4,PDF,±3.1 pp,16.9,,,Nanos Research[note 1],Phone
+73,8.5,True,41.3,"April 1, 2011",,3.7,30.3,PDF,±3.1 pp,16.0,,,Nanos Research[note 1],Phone
+74,8.5,True,36.9,"March 31, 2011",,8.7,26.2,PDF,±1.9 pp,17.2,2.5,,EKOS Research Associates,Phone (IVR)
+75,8.5,True,39.4,"March 31, 2011",,4.4,31.7,PDF,±3.2 pp,16.1,,,Nanos Research[note 1],Phone
+76,8.7,True,39.1,"March 30, 2011",,3.7,32.7,PDF,±3.2 pp,15.9,,,Nanos Research[note 1],Phone
+77,9.1,True,38.4,"March 29, 2011",,4.1,28.7,PDF,±3.2 pp,19.6,,,Nanos Research[note 1],Phone
+78,9.0,True,36.0,"March 28, 2011",,8.0,27.0,PDF,±3.2 pp,20.0,,,Abacus Data,Online
+79,10.0,True,38.0,"March 27, 2011",,7.0,24.0,PDF,±3.1 pp,19.0,,,Harris-Decima,Phone
+80,10.0,True,41.0,"March 27, 2011",,6.0,24.0,HTML,±2.2 pp,19.0,,,Forum Research,Phone
+81,10.0,False,39.0,"March 24, 2011",,7.0,25.0,HTML,±2 pp,19.0,,,Angus Reid Public Opinion,
+82,9.0,False,39.0,"March 24, 2011",,7.0,23.0,PDF,±1.7 pp,19.0,,,Leger Marketing,
+83,9.7,False,35.3,"March 24, 2011",,10.6,28.1,PDF,±2.0 pp (c-95%),14.2,,,EKOS Research Associates,
+84,10.0,False,43.0,"March 23, 2011",,6.0,24.0,HTML,±3.1 pp (c-95%),16.0,,,Ipsos Reid,
+85,10.0,False,34.0,"March 20, 2011",,9.0,28.0,PDF,±2.2 pp (c-95%),17.0,,,Harris-Decima,
+86,10.2,False,34.1,"March 16, 2011",,10.4,25.7,PDF,±2.8 pp,16.4,,,EKOS Research Associates,
+87,10.1,False,38.6,"March 15, 2011",,3.8,27.6,PDF,±3.2 pp,19.9,,,Nanos Research,
+88,10.0,False,36.0,"March 10, 2011",,10.0,23.0,PDF,±2.1 pp,18.0,,,Leger Marketing,
+89,11.0,False,40.0,"March 9, 2011",,5.0,27.0,HTML,±3.1 pp (c-95%),16.0,,,Ipsos Reid,
+90,9.0,False,39.0,"March 9, 2011",,9.0,23.0,PDF,±3.1 pp,17.0,,,Angus Reid Public Opinion,
+91,8.8,False,35.2,"March 8, 2011",,10.1,27.8,PDF,±2.0 pp,14.9,,,EKOS Research Associates,
+92,9.0,False,36.0,"February 27, 2011",,9.0,28.0,PDF,±2.2 pp (c-95%),15.0,,,Harris-Decima,
+93,10.0,False,43.0,"February 27, 2011",,5.0,27.0,HTML,±3.1 pp (c-95%),13.0,,,Ipsos Reid,
+94,11.0,False,38.0,"February 23, 2011",,8.0,23.0,PDF,±3.1 pp (c-95%),19.0,,,Abacus Data,
+95,10.5,False,32.4,"February 22, 2011",,11.9,27.3,PDF,±2.0 pp,14.8,,,EKOS Research Associates,
+96,9.0,False,39.0,"February 18, 2011",,6.0,26.0,PDF,±1.2 pp,18.0,,,Angus Reid Public Opinion,
+97,9.9,False,39.7,"February 14, 2011",,4.9,26.6,PDF,±3.4 pp,18.9,,,Nanos Research,
+98,10.0,False,37.0,"February 13, 2011",,10.0,27.0,PDF,±3.1 pp (c=95%),14.0,,,Harris-Decima,
+99,9.0,False,39.0,"February 10, 2011",,10.0,25.0,HTML,±3.1 pp,18.0,,,Ipsos Reid,
+100,9.9,False,37.3,"February 9, 2011",,10.7,24.8,PDF,±2.4 pp,14.2,,,EKOS Research Associates,
+101,11.0,False,34.0,"February 2, 2011",,10.0,29.0,HTML,±3.1 pp,16.0,,,Ipsos Reid,
+102,9.7,False,35.4,"January 26, 2011",,9.8,27.9,PDF,±1.4 pp (c=95%),14.8,,,EKOS Research Associates,
+103,10.0,False,35.0,"January 24, 2011",,9.0,27.0,PDF,±3.0 pp (c=95%),18.0,,,Abacus Data,
+104,10.0,False,35.0,"January 24, 2011",,8.0,28.0,HTML,not stated,19.0,,,Pollara,
+105,9.0,False,36.0,"January 16, 2011",,9.0,28.0,PDF,±2.2 pp (c=95%),15.0,,,Harris-Decima,
+106,9.8,False,34.5,"January 12, 2011",,10.3,27.3,PDF,±1.7 pp (c=95%),14.8,,,EKOS Research Associates,
+107,11.0,False,34.0,"January 9, 2011",,8.0,28.0,PDF,±3.1 pp,17.0,,,Angus Reid Public Opinion,
+108,10.6,False,32.0,"December 15, 2010",,10.9,26.5,PDF,±2.0 pp (c=95%),17.1,,,EKOS Research Associates,
+109,9.0,False,31.0,"December 13, 2010",,11.0,29.0,HTML,±2.2 pp (c=95%),15.0,,,Harris-Decima,
+110,10.0,False,39.0,"December 9, 2010",,9.0,29.0,HTML,±3.1 pp,12.0,,,Ipsos Reid,
+111,10.0,False,38.0,"December 7, 2010",,7.0,26.0,PDF,±3.1 pp,18.0,,,Angus Reid Public Opinion,
+112,9.8,False,33.7,"December 7, 2010",,10.4,29.2,PDF,±2.7 pp (c=95%),14.4,,,EKOS Research Associates,
+113,10.0,False,35.0,"December 6, 2010",,10.0,24.0,PDF,±3.1 pp (c=95%),20.0,,,Abacus Data,
+114,10.2,False,38.1,"December 5, 2010",,3.2,31.2,PDF,±3.6 pp (c=95%),17.2,,,Nanos Research,
+115,9.9,False,32.6,"November 30, 2010",,10.9,27.4,PDF,±2.2 pp (c=95%),15.8,,,EKOS Research Associates,
+116,9.5,False,33.3,"November 23, 2010",,9.5,27.1,PDF,±2.2 pp (c=95%),16.6,,,EKOS Research Associates,
+117,9.9,False,32.4,"November 16, 2010",,9.8,28.7,PDF,±2.5 pp (c=95%),16.3,,,EKOS Research Associates,
+118,9.3,False,29.4,"November 9, 2010",,10.7,28.6,PDF,±2.3 pp (c=95%),19.3,,,EKOS Research Associates,
+119,10.8,False,37.1,"November 5, 2010",,5.2,31.6,PDF,±3.4 pp (c=95%),15.4,,,Nanos Research,
+120,8.0,False,35.0,"November 4, 2010",,11.0,29.0,HTML,±3.1 pp (c=95%),16.0,,,Ipsos Reid,
+121,10.0,False,33.0,"November 1, 2010",,10.0,25.0,PDF,±3.1 pp (c=95%),21.0,,,Abacus Data,
+122,9.0,False,33.0,"October 31, 2010",,10.0,28.0,PDF,±2.2 pp (c=95%),17.0,,,Harris-Decima,
+123,10.0,False,37.0,"October 26, 2010",,6.0,26.0,PDF,±3.1 pp (c=95%),19.0,,,Angus Reid Public Opinion,
+124,9.3,False,33.9,"October 26, 2010",,11.6,27.8,PDF,±3.0 pp (c=95%),15.1,,,EKOS Research Associates,
+125,11.2,False,30.9,"October 19, 2010",,11.6,29.4,PDF,±2.5 pp (c=95%),13.9,,,EKOS Research Associates,
+126,10.0,False,32.0,"October 17, 2010",,10.0,30.0,PDF,±2.2 pp (c=95%),14.0,,,Harris-Decima,
+127,9.3,False,34.4,"October 12, 2010",,10.4,27.8,PDF,±2.5 pp (c=95%),15.8,,,EKOS Research Associates,
+128,9.8,False,36.6,"October 6, 2010",,4.9,32.4,PDF,±3.4 pp (c=95%),16.3,,,Nanos Research,
+129,9.7,False,31.8,"October 5, 2010",,11.2,27.6,PDF,±2.0 pp (c=95%),16.5,,,EKOS Research Associates,
+130,10.0,False,34.0,"September 28, 2010",,11.0,26.0,PDF,±3.1 pp (c=95%),18.0,,,Angus Reid Public Opinion,
+131,10.1,False,33.1,"September 28, 2010",,10.9,29.9,PDF,±2.3 pp (c=95%),13.5,,,EKOS Research Associates,
+132,11.0,False,35.0,"September 23, 2010",,12.0,29.0,HTML,±3.1 pp (c=95%),12.0,,,Ipsos Reid,
+133,9.7,False,31.7,"September 21, 2010",,11.8,29.3,PDF,±2.5 pp (c=95%),14.6,,,EKOS Research Associates,
+134,10.0,False,33.0,"September 19, 2010",,11.0,30.0,PDF,±2.2 pp (c=95%),14.0,,,Harris-Decima,
+135,8.9,False,32.4,"September 14, 2010",,10.7,28.9,PDF,±2.3 pp (c=95%),16.6,,,EKOS Research Associates,
+136,10.0,False,34.0,"September 12, 2010",,9.0,31.0,PDF,±3.1 pp (c=95%),16.0,,,Ipsos Reid,
+137,9.0,False,35.0,"September 10, 2010",,7.0,31.0,HTML,±2.3 pp (c=95%),16.0,,,Environics,
+138,9.5,False,32.1,"September 7, 2010",,12.5,28.5,PDF,±2.3 pp (c=95%),15.2,,,EKOS Research Associates,
+139,12.1,False,33.3,"September 3, 2010",,6.2,32.8,PDF,±3.4 pp (c=95%),15.6,,,Nanos Research,
+140,10.9,False,29.4,"August 31, 2010",,13.0,29.1,PDF,±2.7 pp (c=95%),15.7,,,EKOS Research Associates,
+141,11.2,False,31.1,"August 24, 2010",,10.7,27.6,PDF,±2.5 pp (c=95%),16.9,,,EKOS Research Associates,
+142,9.0,False,33.0,"August 22, 2010",,10.0,30.0,PDF,±2.2 pp (c=95%),16.0,,,Harris-Decima,
+143,9.2,False,32.5,"August 17, 2010",,10.3,27.9,PDF,±1.8 pp (c=95%),17.4,,,EKOS Research Associates,
+144,10.0,False,33.0,"August 11, 2010",,9.0,29.0,PDF,±3.1 pp (c=95%),19.0,,,Angus Reid Public Opinion,
+145,9.5,False,32.2,"August 10, 2010",,12.3,27.7,PDF,±2.1 pp (c=95%),15.4,,,EKOS Research Associates,
+146,9.0,False,34.0,"August 9, 2010",,9.0,31.0,HTML,payment required,15.0,,,Ipsos Reid,
+147,9.0,False,34.0,"August 9, 2010",,12.0,28.0,PDF,±2.2 pp (c=95%),15.0,,,Harris-Decima,
+148,9.0,False,37.0,"August 4, 2010",,8.0,28.0,HTML,±2.5 pp (c=95%),16.0,,,Leger Marketing,
+149,10.4,False,29.7,"August 3, 2010",,11.1,28.5,PDF,±2.5 pp (c=95%),17.4,,,EKOS Research Associates,
+150,10.1,False,33.2,"July 27, 2010",,11.1,25.2,PDF,±2.6 pp (c=95%),17.4,,,EKOS Research Associates,
+151,10.0,False,31.0,"July 25, 2010",,12.0,26.0,PDF,±2.2 pp (c=95%),18.0,,,Harris-Decima,
+152,10.0,False,32.4,"July 20, 2010",,10.1,25.5,PDF,±3.1 pp (c=95%),18.4,,,EKOS Research Associates,
+153,10.1,False,31.6,"July 13, 2010",,13.3,27.5,PDF,±2.6 pp (c=95%),14.7,,,EKOS Research Associates,
+154,10.0,False,36.0,"July 8, 2010",,7.0,27.0,PDF,±2.2 pp (c=95%),20.0,,,Angus Reid Public Opinion,
+155,11.0,False,35.0,"July 8, 2010",,10.0,29.0,HTML,payment required,15.0,,,Ipsos Reid,
+156,9.0,False,35.0,"July 8, 2010",,6.0,32.0,PDF,±2.2 pp (c=95%),15.0,,,Environics,
+157,9.7,False,32.1,"July 6, 2010",,12.2,25.8,PDF,±1.7 pp (c=95%),17.5,,,EKOS Research Associates,
+158,9.3,False,31.0,"June 21, 2010",,13.0,27.7,PDF,±2.4 pp (c=95%),16.5,,,EKOS Research Associates,
+159,11.0,False,34.0,"June 20, 2010",,10.0,27.0,PDF,±2.2 pp (c=95%),17.0,,,Harris-Decima,
+160,10.5,False,30.5,"June 15, 2010",,12.3,26.3,PDF,±2.4 pp (c=95%),17.4,,,EKOS Research Associates,
+161,10.0,False,35.0,"June 10, 2010",,11.0,27.0,HTML,±3.1 pp,16.0,,,Ipsos Reid,
+162,8.9,False,31.4,"June 8, 2010",,12.6,26.8,PDF,2.3,16.6,,,EKOS Research Associates,
+163,9.4,False,35.6,"June 3, 2010",,5.1,29.2,PDF,3.6,20.7,,,Nanos Research,
+164,10.3,False,31.7,"June 1, 2010",,11.5,26.2,PDF,2.0,17.4,,,EKOS Research Associates,
+165,11.0,False,37.0,"May 27, 2010",,8.0,25.0,HTML,2.7,17.0,,,Leger Marketing,
+166,9.0,False,35.0,"May 27, 2010",,8.0,27.0,PDF,2.2,19.0,,,Angus Reid Public Opinion,
+167,10.0,False,36.0,"May 26, 2010",,7.0,30.0,PDF,2.2,15.0,,,Environics,
+168,9.4,False,33.9,"May 25, 2010",,11.9,25.7,PDF,2.1,16.4,,,EKOS Research Associates,
+169,8.0,False,36.0,"May 23, 2010",,11.0,27.0,PDF,2.2,16.0,,,Harris-Decima,
+170,10.6,False,34.4,"May 18, 2010",,12.0,25.1,PDF,1.9,15.3,,,EKOS Research Associates,
+171,10.0,False,32.0,"May 16, 2010",,11.0,28.0,PDF,2.2,17.0,,,Harris-Decima,
+172,9.3,False,33.6,"May 11, 2010",,10.6,27.1,PDF,1.9,16.9,,,EKOS Research Associates,
+173,10.0,False,35.0,"May 6, 2010",,9.0,29.0,HTML,payment required,16.0,,,Ipsos Reid,
+174,10.2,False,33.1,"May 4, 2010",,11.5,26.1,PDF,2.1,16.0,,,EKOS Research Associates,
+175,9.6,False,37.2,"May 3, 2010",,3.8,33.2,PDF,3.1,16.2,,,Nanos Research,
+176,11.0,False,35.0,"April 29, 2010",,7.0,28.0,PDF,3.1,19.0,,,Angus Reid Public Opinion,
+177,9.0,False,36.0,"April 29, 2010",,8.0,25.0,HTML,2.5,20.0,,,Leger Marketing,
+178,9.7,False,31.9,"April 27, 2010",,10.9,26.6,PDF,2.2,17.6,,,EKOS Research Associates,
+179,11.0,False,29.0,"April 25, 2010",,12.0,27.0,PDF,2.2,20.0,,,Harris-Decima,
+180,9.0,False,35.0,"April 22, 2010",,10.0,29.0,HTML,payment required,16.0,,,Ipsos Reid,
+181,9.5,False,31.7,"April 20, 2010",,12.6,27.1,PDF,2.3,16.3,,,EKOS Research Associates,
+182,8.8,False,31.4,"April 13, 2010",,11.1,29.0,PDF,2.7,16.4,,,EKOS Research Associates,
+183,10.0,False,37.0,"April 8, 2010",,10.0,27.0,HTML,3.1,15.0,,,Ipsos Reid,
+184,9.6,False,33.6,"April 6, 2010",,11.7,27.3,PDF,,15.9,,,EKOS Research Associates,
+185,9.0,False,32.0,"April 5, 2010",,11.0,29.0,PDF,,17.0,,,Harris-Decima,
+186,9.0,False,32.2,"March 30, 2010",,12.7,27.0,PDF,,16.0,,,EKOS Research Associates,
+187,9.0,False,35.0,"March 26, 2010",,7.0,29.0,PDF,,20.0,,,Angus Reid Public Opinion,
+188,9.8,False,33.3,"March 23, 2010",,10.4,27.7,PDF,,15.9,,,EKOS Research Associates,
+189,9.0,False,34.0,"March 18, 2010",,10.0,28.0,HTML,,18.0,,,Ipsos Reid,
+190,9.2,False,33.1,"March 16, 2010",,10.8,28.9,PDF,,15.7,,,EKOS Research Associates,
+191,7.7,False,34.7,"March 11, 2010",,5.2,34.6,PDF,,17.8,,,Nanos Research,
+192,9.1,False,31.9,"March 9, 2010",,11.0,29.6,PDF,,16.0,,,EKOS Research Associates,
+193,10.0,False,33.0,"March 7, 2010",,11.0,29.0,PDF,,16.0,,,Harris-Decima,
+194,9.4,False,32.4,"March 2, 2010",,10.5,29.4,PDF,,15.2,,,EKOS Research Associates,
+195,8.0,False,31.0,"February 28, 2010",,12.0,31.0,HTML,,16.0,,,Harris-Decima,
+196,9.0,False,33.0,"February 26, 2010",,9.0,29.0,PDF,,20.0,,,Angus Reid Public Opinion,
+197,9.0,False,31.0,"February 24, 2010",,13.0,30.0,HTML,,16.0,,,Environics,
+198,8.2,False,33.4,"February 23, 2010",,10.4,30.3,PDF,,15.8,,,EKOS Research Associates,
+199,9.0,False,37.0,"February 22, 2010",,7.0,29.0,HTML,,16.0,,,Ipsos Reid,
+200,8.8,False,31.2,"February 16, 2010",,11.8,29.0,PDF,,16.5,,,EKOS Research Associates,
+201,10.0,False,32.0,"February 14, 2010",,10.0,30.0,PDF,,16.0,,,Harris-Decima,
+202,9.0,False,34.0,"February 13, 2010",,8.0,30.0,PDF,,18.0,,,Angus Reid Public Opinion,
+203,8.0,False,33.0,"February 9, 2010",,9.0,37.0,HTML,,13.0,,,Environics,
+204,10.3,False,31.0,"February 9, 2010",,11.3,29.0,PDF,,15.5,,,EKOS Research Associates,
+205,8.5,False,35.6,"February 4, 2010",,5.6,33.9,PDF,,16.4,,,Nanos Research,
+206,8.4,False,31.0,"February 2, 2010",,10.9,31.9,PDF,,15.4,,,EKOS Research Associates,
+207,10.0,False,32.0,"January 31, 2010",,9.0,32.0,PDF,,15.0,,,Harris-Decima,
+208,10.0,False,33.0,"January 26, 2010",,7.0,29.0,PDF,,19.0,,,Angus Reid Public Opinion,
+209,9.1,False,31.1,"January 26, 2010",,11.0,31.6,PDF,,14.6,,,EKOS Research Associates,
+210,10.0,False,32.0,"January 24, 2010",,10.0,31.0,HTML,,15.0,,,Harris-Decima,
+211,9.0,False,34.0,"January 21, 2010",,8.0,31.0,HTML,,17.0,,,Ipsos Reid,
+212,9.1,False,31.5,"January 19, 2010",,11.5,30.9,PDF,,14.9,,,EKOS Research Associates,
+213,9.0,False,34.0,"January 13, 2010",,8.0,28.0,PDF,,19.0,,,Angus Reid Public Opinion,
+214,10.2,False,30.9,"January 12, 2010",,11.9,29.3,PDF,,15.3,,,EKOS Research Associates,
+215,9.0,False,34.0,"January 10, 2010",,9.0,30.0,PDF,,16.0,,,Harris-Decima,
+216,9.0,False,31.0,"January 8, 2010",,10.0,30.0,HTML,,18.0,,,Strategic Counsel,
+217,10.0,False,36.0,"January 6, 2010",,8.0,29.0,HTML,,17.0,,,Angus Reid Public Opinion,
+218,9.8,False,33.1,"January 5, 2010",,13.4,27.8,PDF,,16.0,,,EKOS Research Associates,
+219,9.2,False,35.9,"December 15, 2009",,11.2,26.7,PDF,,17.0,,,EKOS Research Associates,
+220,7.7,False,39.5,"December 13, 2009",,4.0,30.2,PDF,,18.7,,,Nanos Research,
+221,11.0,False,36.0,"December 10, 2009",,6.0,29.0,PDF,,16.0,,,Angus Reid Public Opinion,
+222,9.9,False,35.6,"December 8, 2009",,11.3,26.5,PDF,,16.7,,,EKOS Research Associates,
+223,9.4,False,36.9,"November 24, 2009",,11.4,27.1,PDF,,15.3,,,EKOS Research Associates,
+224,9.0,False,37.0,"November 19, 2009",,10.0,24.0,HTML,,19.0,,,Ipsos Reid,
+225,11.0,False,38.0,"November 16, 2009",,10.0,23.0,PDF,,17.0,,,Angus Reid Public Opinion,
+226,9.3,False,38.0,"November 10, 2009",,5.9,28.8,PDF,,17.9,,,Nanos Research,
+227,8.8,False,36.6,"November 10, 2009",,11.2,26.6,PDF,,16.8,,,EKOS Research Associates,
+228,9.4,False,37.4,"November 3, 2009",,10.0,26.8,HTML,,16.3,,,EKOS Research Associates,
+229,8.2,False,38.4,"October 27, 2009",,9.9,26.8,HTML,,16.7,,,EKOS Research Associates,
+230,9.0,False,40.0,"October 24, 2009",,7.0,26.0,PDF,,17.0,,,Angus Reid Strategies,
+231,11.0,False,40.0,"October 22, 2009",,11.0,25.0,HTML,,13.0,,,Ipsos Reid,
+232,8.0,False,38.0,"October 21, 2009",,10.0,26.0,HTML,,16.0,,,Environics,
+233,9.0,False,38.3,"October 20, 2009",,11.0,27.1,HTML,,14.5,,,EKOS Research Associates,
+234,8.9,False,39.8,"October 18, 2009",,4.6,30.0,PDF,,16.6,,,Nanos Research,
+235,8.0,False,41.0,"October 14, 2009",,6.0,27.0,PDF,,16.0,,,Angus Reid Strategies,
+236,9.1,False,40.7,"October 13, 2009",,10.5,25.5,HTML,,14.3,,,EKOS Research Associates,
+237,10.0,False,35.0,"October 12, 2009",,10.0,28.0,HTML,,15.0,,,Harris-Decima,
+238,10.0,False,39.0,"October 8, 2009",,8.0,29.0,HTML,,13.0,,,Ipsos Reid,
+239,9.7,False,39.7,"October 6, 2009",,9.7,25.7,HTML,,15.2,,,EKOS Research Associates,
+240,9.0,False,41.0,"October 4, 2009",,9.0,28.0,HTML,,14.0,,,Strategic Counsel,
+241,11.0,False,37.0,"September 30, 2009",,6.0,27.0,PDF,,17.0,,,Angus Reid Strategies,
+242,9.8,False,36.0,"September 29, 2009",,10.5,29.7,HTML,,13.9,,,EKOS Research Associates,
+243,9.0,False,37.0,"September 24, 2009",,8.0,29.0,PDF,,16.0,,,Angus Reid Strategies,
+244,9.1,False,37.0,"September 22, 2009",,10.2,29.9,HTML,,13.8,,,EKOS Research Associates,
+245,9.6,False,35.1,"September 15, 2009",,9.0,29.9,HTML,,16.5,,,EKOS Research Associates,
+246,10.0,False,36.0,"September 13, 2009",,7.0,29.0,PDF,,17.0,,,Angus Reid Strategies,
+247,9.0,False,34.0,"September 13, 2009",,10.0,30.0,PDF,,15.0,,,Harris-Decima,
+248,9.0,False,39.0,"September 13, 2009",,8.0,30.0,HTML,,12.0,,,Ipsos Reid,
+249,10.0,False,34.2,"September 8, 2009",,10.1,30.8,HTML,,14.8,,,EKOS Research Associates,
+250,8.0,False,34.0,"September 6, 2009",,10.0,31.0,HTML,,15.0,,,Harris-Decima,
+251,12.0,False,35.0,"September 6, 2009",,9.0,30.0,HTML,,14.0,,,Strategic Counsel,
+252,9.7,False,37.5,"September 2, 2009",,4.6,33.4,PDF,,14.8,,,Nanos Research,
+253,9.0,False,33.0,"September 2, 2009",,7.0,32.0,PDF,,19.0,,,Angus Reid Strategies,
+254,8.3,False,32.6,"September 1, 2009",,9.9,32.6,PDF,,16.5,,,EKOS Research Associates,
+255,8.0,False,36.0,"September 1, 2009",,3.0,36.0,HTML,,16.0,,,Pollara,
+256,8.0,False,34.0,"August 26, 2009",,9.0,30.0,PDF,,18.0,,,Angus Reid Strategies,
+257,9.5,False,32.6,"August 25, 2009",,11.3,30.9,PDF,,15.7,,,EKOS Research Associates,
+258,9.0,False,31.0,"August 24, 2009",,11.0,32.0,HTML,,16.0,,,Harris-Decima,
+259,8.0,False,39.0,"August 24, 2009",,10.0,28.0,HTML,,14.0,,,Ipsos Reid,
+260,8.7,False,32.0,"August 18, 2009",,11.0,30.2,PDF,,17.3,,,EKOS Research Associates,
+261,9.0,False,32.7,"August 11, 2009",,10.1,31.0,PDF,,16.5,,,EKOS Research Associates,
+262,8.6,False,34.9,"August 4, 2009",,10.8,31.9,PDF,,13.8,,,EKOS Research Associates,
+263,9.2,False,31.3,"August 2, 2009",,7.0,33.8,PDF,,18.7,,,Nanos Research,
+264,10.0,False,33.0,"July 28, 2009",,7.0,34.0,PDF,,16.0,,,Angus Reid Strategies,
+265,8.6,False,32.5,"July 28, 2009",,10.4,34.1,PDF,,14.5,,,EKOS Research Associates,
+266,8.4,False,32.8,"July 21, 2009",,11.5,32.5,PDF,,14.8,,,EKOS Research Associates,
+267,11.0,False,33.0,"July 17, 2009",,6.0,30.0,PDF,,18.0,,,Angus Reid Strategies,
+268,8.7,False,34.1,"July 14, 2009",,9.6,32.4,PDF,,15.2,,,EKOS Research Associates,
+269,9.3,False,31.8,"July 7, 2009",,10.7,32.2,PDF,,16.0,,,EKOS Research Associates,
+270,10.0,False,36.0,"July 3, 2009",,7.0,30.0,PDF,,16.0,,,Angus Reid Strategies,
+271,9.0,False,31.0,"June 29, 2009",,11.5,32.2,PDF,,16.2,,,EKOS Research Associates,
+272,9.0,False,34.8,"June 23, 2009",,9.3,32.6,PDF,,14.3,,,EKOS Research Associates,
+273,9.8,False,32.2,"June 21, 2009",,4.8,36.3,PDF,,16.8,,,Nanos Research,
+274,11.0,False,32.0,"June 18, 2009",,7.0,31.0,PDF,,18.0,,,Angus Reid Strategies,
+275,8.4,False,32.4,"June 16, 2009",,9.0,33.7,PDF,,16.3,,,EKOS Research Associates,
+276,9.2,False,30.3,"June 9, 2009",,10.4,35.0,PDF,,15.1,,,EKOS Research Associates,
+277,9.0,False,31.0,"June 8, 2009",,8.0,35.0,PDF,,15.0,,,Harris-Decima,
+278,9.0,False,30.0,"June 7, 2009",,11.0,34.0,HTML,,16.0,,,Strategic Counsel,
+279,9.0,False,33.0,"June 4, 2009",,9.0,36.0,HTML,,12.0,,,Ipsos Reid,
+280,8.0,False,31.8,"June 1, 2009",,7.4,37.2,PDF,,15.7,,,Nanos Research,
+281,9.0,False,31.0,"May 29, 2009",,7.0,33.0,PDF,,17.0,,,Angus Reid Strategies,
+282,8.7,False,32.3,"May 28, 2009",,10.4,33.5,PDF,,15.1,,,EKOS Research Associates,
+283,9.0,False,35.0,"May 24, 2009",,8.0,33.0,HTML,,14.0,,,Ipsos Reid,
+284,9.0,False,30.0,"May 10, 2009",,11.0,35.0,PDF,,16.0,,,Strategic Counsel,
+285,9.0,False,29.0,"May 3, 2009",,11.0,34.0,PDF,,15.0,,,Harris-Decima,
+286,9.0,False,33.0,"April 30, 2009",,7.0,36.0,PDF,,15.0,,,Nanos Research,
+287,9.0,False,33.0,"April 30, 2009",,8.0,36.0,HTML,,13.0,,,Ipsos Reid,
+288,10.0,False,33.0,"April 22, 2009",,6.0,33.0,PDF,,15.0,,,Angus Reid Strategies,
+289,9.0,False,29.0,"April 19, 2009",,11.0,32.0,PDF,,16.0,,,Harris-Decima,
+290,9.4,False,30.2,"April 13, 2009",,8.1,36.7,PDF,,15.5,,,EKOS Research Associates,
+291,10.0,False,32.0,"April 5, 2009",,9.0,34.0,PDF,,15.0,,,Strategic Counsel,
+292,9.0,False,34.0,"March 23, 2009",,6.0,35.0,PDF,,14.0,,,Leger Marketing,
+293,10.0,False,33.0,"March 18, 2009",,8.0,36.0,PDF,,13.0,,,Nanos Research,
+294,10.0,False,35.0,"March 11, 2009",,7.0,31.0,PDF,,16.0,,,Angus Reid Strategies,
+295,9.0,False,32.0,"March 8, 2009",,10.0,33.0,PDF,,14.0,,,Harris-Decima,
+296,9.0,False,35.0,"March 8, 2009",,10.0,31.0,PDF,,16.0,,,Strategic Counsel,
+297,10.0,False,37.0,"March 5, 2009",,8.0,33.0,HTML,,12.0,,,Ipsos Reid,
+298,10.0,False,33.0,"February 15, 2009",,7.0,33.0,PDF,,15.0,,,Harris-Decima,
+299,5.0,False,32.0,"February 8, 2009",,13.0,33.0,PDF,,17.0,,,Strategic Counsel,
+300,10.0,False,33.0,"February 8, 2009",,10.0,31.0,PDF,,15.0,,,Harris-Decima,
+301,10.0,False,37.0,"February 7, 2009",,7.0,31.0,HTML,,14.0,,,Ipsos Reid,
+302,10.0,False,34.0,"February 3, 2009",,7.0,33.0,PDF,,16.0,,,Nanos Research,
+303,8.0,False,38.0,"January 27, 2009",,6.0,29.0,PDF,,18.0,,,Angus Reid Strategies,
+304,7.9,False,36.2,"January 17, 2009",,9.1,32.6,PDF,,14.3,,,EKOS Research Associates,
+305,9.0,False,39.0,"January 15, 2009",,5.0,30.0,PDF,,17.0,,,Angus Reid Strategies,
+306,8.0,False,36.0,"January 14, 2009",,8.0,29.0,PDF,,18.0,,,Strategic Counsel,
+307,9.0,False,39.0,"January 8, 2009",,9.0,28.0,HTML,,15.0,,,Ipsos Reid,
+308,7.0,False,33.0,"January 7, 2009",,7.0,34.0,PDF,,19.0,,,Nanos Research,
+309,6.0,False,43.0,"December 23, 2008",,8.0,30.0,PDF,,13.0,,,COMPAS,
+310,9.0,False,37.0,"December 12, 2008",,8.0,31.0,PDF,,15.0,,,Angus Reid Strategies,
+311,10.0,False,45.0,"December 11, 2008",,7.0,26.0,HTML,,12.0,,,Ipsos Reid,
+312,10.0,False,42.0,"December 6, 2008",,7.0,22.0,PDF,,18.0,,,Angus Reid Strategies,
+313,8.0,False,47.0,"December 4, 2008",,8.0,24.0,HTML,,14.0,,,Praxicus Public Strategies,
+314,8.0,False,51.0,"December 4, 2008",,6.0,20.0,PDF,,10.0,,,COMPAS,
+315,10.2,False,42.2,"December 4, 2008",,9.0,23.6,PDF,,15.0,,,EKOS Research Associates,
+316,10.0,False,45.0,"December 3, 2008",,8.0,24.0,PDF,,14.0,,,Strategic Counsel,
+317,9.0,False,46.0,"December 3, 2008",,8.0,23.0,HTML,,13.0,,,Ipsos Reid,
+318,9.2,False,44.0,"December 3, 2008",,8.1,24.1,PDF,,14.5,,,EKOS Research Associates,
+319,9.0,False,32.0,"November 15, 2008",,10.0,30.0,PDF,,20.0,,,Nanos Research,
+320,10.0,False,37.6,"October 14, 2008",,6.8,26.2,HTML,,18.2,,,Election 2008,
+0,5.5,True,30.5,"October 18, 2015",±3.5 pp,4.6,39.1,PDF,8.6,19.7,,800,Nanos Research,telephone
+1,6.0,True,30.0,"October 18, 2015",±3 pp,3.0,40.0,PDF,10,20.0,,"1,373",Forum Research,IVR
+2,4.9,True,31.9,"October 18, 2015",±2.1 pp,5.6,35.8,PDF,3.9,20.4,,"2,122",EKOS,IVR/telephone – rolling (1/3)
+3,5.4,True,32.6,"October 17, 2015",±2.4 pp,5.4,34.3,PDF,1.7,21.0,,"1,621",EKOS,IVR/telephone – rolling (1/2)
+4,4.0,True,31.0,"October 17, 2015",±2.2 pp,4.0,38.0,HTML,7,22.0,,"2,503",Ipsos Reid,online/telephone
+5,4.6,True,30.5,"October 17, 2015",±2.2 pp,4.7,37.3,PDF[permanent dead link],6.8,22.1,,"2,000",Nanos Research,telephone – rolling (2/5)
+6,4.7,True,33.3,"October 16, 2015",±2.5 pp,4.1,33.7,PDF,0.4,21.9,,"1,537",EKOS,IVR/telephone – rolling (1/2)
+7,4.4,True,30.7,"October 16, 2015",±2.5 pp,4.7,37.0,PDF[permanent dead link],6.3,22.6,,"1,600",Nanos Research,telephone – rolling (1/2)
+8,6.0,True,30.0,"October 16, 2015",±2.1 pp,4.0,38.0,PDF,8,22.0,,"2,086",Léger Marketing,online
+9,5.0,True,31.0,"October 16, 2015",±2.2 pp,5.0,35.0,PDF,4,22.0,,"2,022",Angus Reid,online
+10,4.0,True,33.0,"October 15, 2015",±1.4 pp,5.0,38.0,HTML,5,21.0,,"5,546",Mainstreet Research,IVR
+11,3.4,True,32.8,"October 15, 2015",±2.3 pp,5.1,34.0,PDF,1.2,22.7,,"1,813",EKOS,IVR/telephone – rolling (1/3)
+12,4.3,True,30.6,"October 15, 2015",±2.8 pp,4.7,36.5,PDF,5.9,23.5,,"1,200",Nanos Research,telephone – rolling (1/3)
+13,6.0,True,31.0,"October 14, 2015",±3 pp,2.0,37.0,PDF,6,24.0,,"1,438",Forum Research,IVR
+14,3.4,True,32.6,"October 14, 2015",±2.6 pp,5.6,33.5,PDF,0.9,22.9,,"1,438",EKOS,IVR/telephone – rolling (1/3)
+15,5.0,True,29.4,"October 14, 2015",±2.8 pp,4.3,37.1,PDF[permanent dead link],7.7,23.7,,"1,200",Nanos Research,telephone – rolling (1/3)
+16,3.8,True,29.9,"October 13, 2015",±2.9 pp,6.4,34.1,PDF,4.2,24.1,,"1,179",EKOS,IVR/telephone – rolling (1/3)
+17,5.2,True,29.2,"October 13, 2015",±2.8 pp,4.3,36.1,PDF[permanent dead link],6.9,24.5,,"1,200",Nanos Research,telephone – rolling (1/3)
+18,5.0,True,31.0,"October 13, 2015",±3.0 pp,2.0,37.0,HTML,6,24.0,,"1,349",Ipsos Reid,online
+19,3.2,True,31.1,"October 12, 2015",±2.9 pp,7.5,35.6,PDF,4.5,20.6,,"1,115",EKOS,IVR/telephone – rolling (2/3)
+20,5.7,True,28.9,"October 11, 2015",±2.8 pp,4.8,35.7,PDF,6.8,24.3,,"1,200",Nanos Research,telephone – rolling (1/3)
+21,3.0,True,30.0,"October 11, 2015",±3.1 pp,6.0,38.0,PDF,8,22.0,,"1,143",Innovative Research,telephone
+22,3.3,True,35.5,"October 10, 2015",±2.6 pp,7.4,33.1,PDF,2.4,19.0,,"1,428",EKOS,IVR/telephone – rolling (2/3)
+23,5.2,True,29.0,"October 10, 2015",±2.8 pp,5.1,35.1,PDF,6.1,25.0,,"1,200",Nanos Research,telephone – rolling (1/3)
+24,5.0,True,31.0,"October 9, 2015",±3 pp,3.0,37.0,PDF,6,23.0,,"1,427",Forum Research,IVR
+25,5.5,True,28.6,"October 9, 2015",±2.8 pp,5.4,34.8,PDF,6.2,24.9,,"1,200",Nanos Research,telephone – rolling (1/3)
+26,6.0,True,33.0,"October 9, 2015",±3 pp,3.0,31.0,PDF,2,25.0,,"1,083",Angus Reid,online
+27,3.5,True,33.7,"October 8, 2015",±2.4 pp,7.2,33.8,PDF,0.1,20.4,,"1,618",EKOS,IVR/telephone – rolling (1/3)
+28,5.3,True,31.0,"October 8, 2015",±2.8 pp,4.2,34.0,PDF,3.0,25.0,,"1,200",Nanos Research,telephone – rolling (1/3)
+29,5.0,True,30.0,"October 8, 2015",n.a,5.0,35.0,PDF,5,24.0,,"3,417",Innovative Research,online
+30,4.0,True,36.0,"October 7, 2015",±1.3 pp,5.0,35.0,HTML,1,20.0,,"5,630",Mainstreet Research,IVR
+31,6.0,True,30.0,"October 7, 2015",±2.1 pp,4.0,34.0,PDF,4,25.0,,"2,087",Léger Marketing,online
+32,3.6,True,32.5,"October 7, 2015",±2.3 pp,7.3,34.1,PDF,1.6,21.1,,"1,753",EKOS,IVR/telephone – rolling (1/3)
+33,5.6,True,31.6,"October 7, 2015",±2.8 pp,4.6,33.5,PDF,1.9,24.2,,"1,200",Nanos Research,telephone – rolling (1/3)
+34,4.0,True,31.0,"October 6, 2015",±3 pp,3.0,35.0,PDF,4,26.0,,"1,447",Forum Research,IVR
+35,4.0,True,33.0,"October 6, 2015",±2.2 pp,5.0,32.0,PDF,1,24.0,,"2,000",Abacus Data,online
+36,4.0,True,34.1,"October 6, 2015",±2.3 pp,6.9,32.3,PDF,1.8,21.4,,"1,788",EKOS,IVR/telephone – rolling (1/3)
+37,5.1,True,32.1,"October 6, 2015",±2.8 pp,4.6,34.3,PDF,2.2,23.0,,"1,200",Nanos Research,telephone – rolling (1/3)
+38,4.0,True,35.1,"October 5, 2015",±2.4 pp,6.6,30.9,PDF,4.2,22.2,,"1,658",EKOS,IVR/telephone – rolling
+39,4.9,True,31.5,"October 5, 2015",±2.8 pp,4.6,35.0,PDF,3.5,23.1,,"1,200",Nanos Research,telephone – rolling (1/3)
+40,5.0,True,33.0,"October 5, 2015",±2.9 pp,3.0,32.0,HTML,1,26.0,,"1,441",Ipsos Reid,online
+41,4.8,True,31.0,"October 4, 2015",±2.8 pp,4.7,35.6,PDF,4.6,22.8,,"1,200",Nanos Research,telephone – rolling (1/3)
+42,4.3,True,31.0,"October 3, 2015",±2.8 pp,4.5,35.3,PDF,4.3,24.3,,"1,200",Nanos Research,telephone – rolling (1/3)
+43,4.5,True,30.5,"October 2, 2015",±2.8 pp,4.8,34.6,PDF,4.1,25.1,,"1,200",Nanos Research,telephone – rolling (1/3)
+44,4.0,True,37.0,"October 1, 2015",±1.4 pp,7.0,29.0,HTML,8,24.0,,"5,197",Mainstreet Research,IVR
+45,5.0,True,29.0,"October 1, 2015",n.a,6.0,31.0,PDF,2,29.0,,"1,562",Innovative Research,online
+46,4.3,True,31.9,"October 1, 2015",±2.8 pp,3.9,33.5,PDF,1.6,25.9,,"1,200",Nanos Research,telephone – rolling (1/3)
+47,6.0,True,30.0,"September 30, 2015",±2.1 pp,6.0,32.0,PDF,2,26.0,,"2,107",Léger Marketing,online
+48,6.0,True,34.0,"September 30, 2015",±2.5 pp,5.0,27.0,PDF,7,27.0,,"2,021",Angus Reid,online
+49,4.8,True,32.8,"September 30, 2015",±2.8 pp,4.1,31.7,PDF,1.1,26.1,,"1,200",Nanos Research,telephone – rolling (1/3)
+50,5.0,True,34.0,"September 29, 2015",±3 pp,5.0,27.0,PDF,6,28.0,,"1,499",Forum Research,IVR
+51,4.6,True,32.1,"September 29, 2015",±2.8 pp,4.4,32.2,PDF,0.1,26.3,,"1,200",Nanos Research,telephone – rolling (1/3)
+52,5.3,True,33.4,"September 29, 2015",±1.9 pp,7.8,26.7,PDF,6.7,25.6,,"2,609",EKOS,IVR
+53,4.4,True,32.6,"September 28, 2015",±2.8 pp,4.0,31.4,PDF,1.2,27.0,,"1,200",Nanos Research,telephone – rolling (1/3)
+54,4.0,True,32.0,"September 28, 2015",±3.0 pp,4.0,33.0,HTML,1,27.0,,"1,354",Ipsos Reid,online
+55,4.2,True,33.0,"September 27, 2015",±2.8 pp,3.6,31.6,PDF,1.4,26.9,,"1,200",Nanos Research,telephone – rolling (1/3)
+56,5.0,True,32.0,"September 27, 2015",±1.6 pp,5.0,29.0,PDF,3,27.0,,"3,814",Abacus Data,online
+57,4.0,True,31.5,"September 26, 2015",±2.8 pp,3.7,32.5,PDF,1.0,27.6,,"1,200",Nanos Research,telephone – rolling (1/3)
+58,3.1,True,29.6,"September 25, 2015",±2.8 pp,4.5,31.8,PDF,1.5,30.3,,"1,200",Nanos Research,telephone – rolling (1/3)
+59,2.5,True,28.9,"September 24, 2015",±2.8 pp,4.2,32.3,PDF,1.2,31.1,,"1,200",Nanos Research,telephone – rolling (1/3)
+60,3.0,True,31.0,"September 24, 2015",n.a.,8.0,28.0,PDF,2,29.0,,"2,805",Innovative Research,online
+61,4.0,True,31.0,"September 23, 2015",±3 pp,4.0,31.0,PDF,Tie,28.0,,"1,557",Forum Research,IVR
+62,2.3,True,30.5,"September 23, 2015",±2.8 pp,3.7,31.5,PDF,0.7,30.8,,"1,200",Nanos Research,telephone – rolling (1/3)
+63,5.0,True,31.0,"September 23, 2015",±2.1 pp,5.0,31.0,PDF,Tie,29.0,,"2,115",Léger Marketing,online
+64,3.0,True,32.0,"September 23, 2015",±2.5 pp,7.0,30.0,PDF,2,27.0,,"1,784",Innovative Research,telephone
+65,2.6,True,31.5,"September 22, 2015",±2.8 pp,4.2,31.6,PDF,0.1,29.1,,"1,200",Nanos Research,telephone – rolling (1/3)
+66,4.2,True,35.4,"September 22, 2015",±2.0 pp,7.7,26.3,PDF,9.1,24.5,,"2,343",EKOS,IVR
+67,3.4,True,31.3,"September 21, 2015",±2.8 pp,4.6,30.3,PDF,1.0,29.4,,"1,200",Nanos Research,telephone – rolling (1/3)
+68,5.0,True,27.0,"September 21, 2015",±3.4 pp,4.0,33.0,HTML,3,30.0,,"1,103",Ipsos Reid,online
+69,3.8,True,31.0,"September 20, 2015",±2.8 pp,5.5,29.4,PDF,1.6,29.1,,"1,200",Nanos Research,telephone – rolling (1/3)
+70,3.7,True,30.8,"September 19, 2015",±2.8 pp,5.1,30.3,PDF,0.5,29.1,,"1,200",Nanos Research,telephone – rolling (1/3)
+71,4.0,True,33.0,"September 18, 2015",±3 pp,4.0,29.0,PDF,4,29.0,,922,Forum Research,IVR
+72,3.0,True,30.4,"September 18, 2015",±2.8 pp,6.0,30.8,PDF,0.4,28.9,,"1,200",Nanos Research,telephone – rolling (1/3)
+73,2.3,True,29.1,"September 17, 2015",±2.8 pp,5.8,31.0,PDF,0.3,31.3,,"1,200",Nanos Research,telephone – rolling (1/3)
+74,2.5,True,30.1,"September 16, 2015",±2.8 pp,5.8,30.9,PDF,0.5,30.4,,"1,200",Nanos Research,telephone – rolling (1/3)
+75,4.0,True,32.0,"September 15, 2015",±3 pp,6.0,28.0,PDF,2,30.0,,"1,402",Forum Research,IVR
+76,2.8,True,29.0,"September 15, 2015",±2.8 pp,5.3,30.1,PDF,1.5,31.6,,"1,200",Nanos Research,telephone – rolling (1/3)
+77,4.0,True,26.0,"September 15, 2015",±3.6 pp,8.0,29.0,HTML,5,34.0,,"1,001",Environics,telephone
+78,3.7,True,29.6,"September 15, 2015",±1.9 pp,7.6,27.4,PDF,0.3,29.9,,"2,704",EKOS,IVR
+79,2.9,True,31.0,"September 14, 2015",±2.8 pp,4.8,29.6,PDF,0.6,30.4,,"1,200",Nanos Research,telephone – rolling (1/3)
+80,4.0,True,29.0,"September 13, 2015",±3.6 pp,4.0,31.0,HTML,1,32.0,,980,Ipsos Reid,online
+81,2.6,True,30.2,"September 13, 2015",±2.8 pp,4.3,30.3,PDF,1.0,31.3,,"1,200",Nanos Research,telephone – rolling (1/3)
+82,2.5,True,31.7,"September 12, 2015",±2.8 pp,4.1,30.5,PDF,0.9,30.8,,"1,200",Nanos Research,telephone – rolling (1/3)
+83,4.0,True,29.0,"September 11, 2015",±2.6 pp,6.0,29.0,PDF,2,31.0,,"1,500",Abacus Data,online
+84,2.8,True,30.9,"September 11, 2015",±2.8 pp,4.0,31.7,PDF,0.8,30.1,,"1,200",Nanos Research,telephone – rolling (1/3)
+85,3.0,True,28.0,"September 10, 2015",±3 pp,3.0,29.0,PDF,7,36.0,,"1,308",Forum Research,IVR
+86,3.2,True,30.8,"September 10, 2015",±2.8 pp,4.6,30.9,PDF,0.1,29.9,,"1,200",Nanos Research,telephone – rolling (1/3)
+87,4.0,True,28.0,"September 10, 2015",±2.2 pp,6.0,30.0,PDF,1,31.0,,"2,121",Innovative Research,online
+88,3.6,True,28.6,"September 9, 2015",±2.8 pp,4.8,32.1,PDF,1.5,30.6,,"1,200",Nanos Research,telephone – rolling (1/3)
+89,3.7,True,25.9,"September 8, 2015",±2.8 pp,6.1,32.5,PDF,1.3,31.2,,"1,200",Nanos Research,telephone – rolling (1/3)
+90,3.0,True,29.0,"September 8, 2015",±3.6 pp,3.0,30.0,HTML,4,34.0,,949,Ipsos Reid,online
+91,4.6,True,31.8,"September 8, 2015",±1.9 pp,5.9,26.9,PDF,2.2,29.6,,"2,677",EKOS,IVR
+92,3.7,True,26.2,"September 6, 2015",±2.8 pp,6.0,30.8,PDF,1.9,32.7,,"1,200",Nanos Research,telephone – rolling
+93,4.0,True,28.0,"September 2, 2015",±2.1 pp,5.0,30.0,PDF,1,31.0,,"2,119",Léger Marketing,online
+94,4.0,True,24.0,"September 1, 2015",±3 pp,4.0,32.0,PDF,4,36.0,,"1,384",Forum Research,IVR
+95,4.2,True,29.5,"September 1, 2015",±1.7 pp,6.4,27.7,PDF,0.7,30.2,,"3,243",EKOS,IVR
+96,3.0,True,30.0,"August 28, 2015",±2.6 pp,7.0,28.0,PDF,1,31.0,,"1,500",Abacus Data,online
+97,4.2,True,28.8,"August 28, 2015",±3.1 pp,5.4,29.7,PDF,1.1,30.8,,"1,000",Nanos Research,telephone – rolling (1/4)
+98,4.0,True,30.0,"August 26, 2015",±1.7 pp,6.0,27.0,PDF,2,32.0,,"3,274",Innovative Research,online
+99,4.0,True,29.0,"August 26, 2015",±3.5 pp,4.0,30.0,HTML,3,33.0,,"1,000",Ipsos Reid,online
+100,4.1,True,28.1,"August 25, 2015",±1.7 pp,5.8,26.7,PDF,5.5,33.6,,"3,524",EKOS,IVR
+101,3.0,True,23.0,"August 24, 2015",±3 pp,3.0,30.0,PDF,10,40.0,,"1,440",Forum Research,IVR
+102,4.0,True,32.0,"August 24, 2015",±1.2 pp,4.0,23.0,PDF,4,36.0,,"6,226",Angus Reid[LV],online
+103,4.7,True,30.1,"August 21, 2015",±3.1 pp,5.2,29.9,PDF,0.2,29.1,,"1,000",Nanos Research,telephone – rolling (1/4)
+104,4.0,True,29.0,"August 19, 2015",±3 pp,4.0,28.0,PDF,5,34.0,,"1,473",Forum Research,IVR
+105,3.0,True,29.0,"August 17, 2015",±2.6 pp,6.0,26.0,PDF,6,35.0,,"1,439",Abacus Data,online
+106,4.5,True,31.8,"August 14, 2015",±3.1 pp,5.3,28.7,PDF,2.8,29.0,,"1,000",Nanos Research,telephone – rolling (1/4)
+107,5.0,True,27.0,"August 12, 2015",±2.1 pp,6.0,28.0,PDF,5,33.0,,"2,095",Léger Marketing,online
+108,4.0,True,31.0,"August 11, 2015",±1.35 pp,6.0,29.0,HTML,1,30.0,,"5,401",Mainstreet Research,IVR
+109,6.0,True,28.0,"August 11, 2015",±3 pp,4.0,27.0,PDF,6,34.0,,"1,392",Forum Research,IVR
+110,4.2,True,30.4,"August 11, 2015",±1.8 pp,7.3,24.2,PDF,1.4,31.8,,"3,055",EKOS,IVR
+111,3.9,True,30.8,"August 10, 2015",±2.38 pp,4.0,27.8,HTML,2.2,33.0,,"2,022",Ipsos Reid,telephone/online
+112,4.2,True,31.2,"August 7, 2015",±3.1 pp,5.0,28.6,PDF,0.8,30.4,,"1,000",Nanos Research,telephone – rolling (1/4)
+113,5.0,True,28.0,"August 2, 2015",±3 pp,3.0,25.0,PDF,11,39.0,,"1,399",Forum Research,IVR
+114,3.3,False,31.5,"July 31, 2015",±3.1 pp,5.4,29.3,PDF,1.4,30.1,,"1,000",Nanos Research,telephone – rolling (1/2)
+115,4.6,False,29.3,"July 30, 2015",±1.9 pp,5.6,25.8,HTML,4.4,33.7,,"2,833",Innovative Research,online
+116,4.0,False,33.0,"July 28, 2015",±3.0 pp,4.0,25.0,PDF,Tie,33.0,,"1,397",Forum Research,IVR
+117,4.7,False,30.1,"July 28, 2015",±2.1 pp,6.1,23.4,PDF,3.7,33.8,,"2,247",EKOS,IVR
+118,5.0,False,33.0,"July 27, 2015",±2.5 pp,3.0,25.0,HTML,1,34.0,,"1,571",Ipsos Reid,online
+119,4.0,False,38.0,"July 21, 2015",±1.37 pp,6.0,25.0,HTML,11,27.0,,"5,147",Mainstreet Research,IVR
+120,5.0,False,28.0,"July 20, 2015",±3.0 pp,4.0,29.0,PDF,6,34.0,,"1,208",Forum Research,IVR
+121,5.0,False,31.0,"July 17, 2015",±3.1 pp,6.0,27.0,PDF,Tie,31.0,,"1,000",Nanos Research,telephone – rolling
+122,5.0,False,32.0,"July 16, 2015",±2.5 pp,6.0,25.0,PDF,Tie,32.0,,"1,545",Leger Marketing,online
+123,5.3,False,29.4,"July 14, 2015",±2.0 pp,6.6,24.0,PDF,3.2,32.6,,"2,538",EKOS,IVR
+124,7.0,False,27.0,"July 13, 2015",±3.0 pp,5.0,27.0,PDF,7,34.0,,"1,251",Forum Research,IVR
+125,5.0,False,32.0,"July 7, 2015",±3.0 pp,3.0,26.0,PDF,Tie,32.0,,"1,200",Forum Research,IVR
+126,6.0,False,29.0,"July 6, 2015",±2.2 pp,6.0,27.0,PDF,3,32.0,,"2,000",Abacus Data,online
+127,6.0,False,27.0,"June 29, 2015",±3.0 pp,4.0,29.0,PDF,3,32.0,,"1,221",Forum Research,IVR
+128,6.3,False,27.3,"June 28, 2015",±2.3 pp,6.6,25.6,PDF,3.6,30.9,,"1,752",EKOS,IVR
+129,5.0,False,28.0,"June 23, 2015",±3.0 pp,2.0,28.0,PDF,8,36.0,,"1,268",Forum Research,IVR
+130,6.0,False,28.0,"June 23, 2015",±2.5 pp,2.0,29.0,HTML,6,35.0,,"2,003",Ipsos Reid,online
+131,6.0,False,28.0,"June 18, 2015",±2.4 pp,7.0,28.0,HTML,2,30.0,,"2,003",Environics,telephone
+132,7.0,False,26.0,"June 16, 2015",±3.0 pp,5.0,28.0,PDF,6,34.0,,"1,281",Forum Research,IVR
+133,5.9,False,29.4,"June 16, 2015",±1.6 pp,7.1,25.0,PDF,0.8,30.2,,"3,834",EKOS,IVR
+134,5.1,False,26.9,"June 9, 2015",±2.0 pp,7.3,23.3,PDF,6.7,33.6,,"2,491",EKOS,IVR
+135,5.0,False,31.0,"June 7, 2015",±1.2 pp,5.0,23.0,PDF,5,36.0,,"6,005",Angus Reid,online
+136,3.0,False,31.0,"June 5, 2015",±3.0 pp,5.0,32.0,PDF,1,28.0,,"1,156",Forum Research,IVR
+137,4.8,False,29.2,"June 2, 2015",±2.1 pp,7.4,23.9,PDF,2.1,31.3,,"2,204",EKOS,IVR
+138,4.0,False,31.0,"May 31, 2015",±2.6 pp,7.0,28.0,PDF,3,28.0,,"1,500",Abacus Data,online
+139,4.0,False,31.0,"May 29, 2015",±3.5 pp,4.0,31.0,HTML,Tie,30.0,,"1,003",Ipsos Reid,online
+140,4.0,False,32.0,"May 29, 2015",±3.1 pp,5.0,29.0,PDF,2,30.0,,"1,000",Nanos Research,telephone – rolling (1/2)
+141,4.1,False,29.5,"May 26, 2015",±1.8 pp,7.8,26.8,PDF,0.6,28.9,,"2,934",EKOS,IVR
+142,5.4,False,28.1,"May 19, 2015",±1.9 pp,7.6,26.1,PDF,1.5,29.6,,"2,675",EKOS,IVR
+143,3.6,False,32.9,"May 14, 2015",±3.1 pp,5.3,31.3,PDF,1.6,25.2,,"1,000",Nanos Research,telephone – rolling
+144,3.0,False,31.0,"May 13, 2015",±3.0 pp,4.0,31.0,PDF,Tie,30.0,,"1,286",Forum Research,IVR
+145,4.1,False,30.0,"May 12, 2015",±2.1 pp,8.0,27.0,PDF,0.9,29.1,,"2,177",EKOS,IVR
+146,4.2,False,30.3,"May 5, 2015",±1.8 pp,7.3,29.6,PDF,0.7,24.2,,"3,017",EKOS,IVR
+147,4.0,False,33.0,"April 30, 2015",±2.5 pp,7.0,34.0,PDF,1,21.0,,"1,488",Leger Marketing,online
+148,4.1,False,32.4,"April 28, 2015",±1.6 pp,9.9,28.7,PDF,3.7,21.9,,"3,757",EKOS,IVR
+149,5.0,False,36.0,"April 24, 2015",±2.6 pp,6.0,28.0,PDF,8,24.0,,"1,500",Abacus Data,online
+150,5.0,False,35.0,"April 22, 2015",±3.0 pp,6.0,31.0,PDF,4,23.0,,977,Forum Research,IVR
+151,4.9,False,31.8,"April 21, 2015",±1.6 pp,7.5,27.6,PDF,4.0,23.5,,"3,850",EKOS,IVR
+152,4.0,False,29.0,"April 17, 2015",±3.1 pp,8.0,34.0,PDF,5,25.0,,"1,000",Nanos Research,telephone – rolling
+153,3.0,False,33.0,"April 16, 2015",±3.0 pp,6.0,35.0,PDF,2,22.0,,"1,365",Forum Research,IVR
+154,4.9,False,32.2,"April 14, 2015",±1.7 pp,8.0,28.5,PDF,3.7,22.7,,"3,399",EKOS,IVR
+155,4.0,False,35.0,"April 7, 2015",±3.5 pp,3.0,33.0,HTML,2,25.0,,"1,001",Ipsos Reid,online
+156,4.2,False,28.7,"April 7, 2015",±1.7 pp,9.2,30.1,PDF,1.4,22.9,,"3,306",EKOS,IVR
+157,5.0,False,31.0,"March 31, 2015",±3.0 pp,5.0,34.0,PDF,3,23.0,,"1,239",Forum Research,IVR
+158,5.2,False,31.9,"March 31, 2015",±1.6 pp,9.6,27.6,PDF,4.3,22.6,,"3,901",EKOS,IVR
+159,5.9,False,35.3,"March 30, 2015",±1.8 pp,8.7,31.4,PDF,3.9,18.7,,"3,040",Oraclepoll Research,telephone
+160,4.7,False,31.8,"March 24, 2015",±1.5 pp,8.7,28.5,PDF,3.3,23.2,,"4,311",EKOS,IVR
+161,4.0,False,32.0,"March 22, 2015",±3.1 pp,6.0,33.0,PDF,1,23.0,,"1,000",Abacus Data,online
+162,4.0,False,34.0,"March 18, 2015",±2.5 pp,6.0,35.0,PDF,1,20.0,,"1,511",Leger Marketing,online
+163,4.8,False,30.2,"March 17, 2015",±1.6 pp,7.9,32.1,PDF,1.9,21.2,,"3,832",EKOS,IVR
+164,4.0,False,32.0,"March 14, 2015",±3.0 pp,6.0,36.0,PDF,4,21.0,,"1,370",Forum Research,IVR
+165,4.8,False,32.9,"March 10, 2015",±1.8 pp,8.8,30.5,PDF,2.4,19.7,,"2,950",EKOS,IVR
+166,4.6,False,32.2,"March 3, 2015",±1.7 pp,9.0,31.3,PDF,0.9,19.9,,"3,241",EKOS,IVR
+167,5.0,False,33.0,"February 27, 2015",±3.1 pp,5.0,34.0,PDF,1,23.0,,"1,000",Nanos Research,telephone – rolling
+168,4.5,False,31.1,"February 24, 2015",±1.6 pp,7.5,31.9,PDF,0.8,22.1,,"3,607",EKOS,IVR
+169,6.0,False,33.0,"February 23, 2015",±2.2 pp,3.0,34.0,HTML,1,23.0,,"2,650",Ipsos Reid,online
+170,5.4,False,32.3,"February 17, 2015",±1.7 pp,8.0,31.6,PDF,0.7,19.1,,"3,386",EKOS,IVR
+171,4.0,False,35.0,"February 16, 2015",±2.6 pp,4.0,34.0,PDF,1,21.0,,"1,460",Abacus Data,online
+172,4.0,False,32.0,"February 10, 2015",±3.0 pp,5.0,39.0,PDF,7,17.0,,"1,018",Forum Research,IVR
+173,4.2,False,32.0,"February 10, 2015",±1.8 pp,8.5,33.8,PDF,1.8,18.9,,"3,005",EKOS,IVR
+174,3.8,False,35.0,"February 3, 2015",±1.8 pp,8.0,32.2,PDF,2.8,17.9,,"2,974",EKOS,IVR
+175,5.0,False,32.0,"February 2, 2015",±2.5 pp,6.0,35.0,PDF,3,20.0,,"1,507",Leger Marketing,online
+176,5.0,False,35.0,"January 28, 2015",±3.0 pp,6.0,34.0,PDF,1,20.0,,"1,382",Forum Research,IVR
+177,4.0,False,33.0,"January 28, 2015",±3.1 pp,5.0,32.0,PDF,1,24.0,,"1,005",Abacus Data,online
+178,4.4,False,31.0,"January 13, 2015",±1.5 pp,8.9,33.1,PDF,2.1,19.1,,"4,412",EKOS,IVR
+179,6.0,False,35.0,"January 11, 2015",±2.6 pp,4.0,31.0,HTML,4,24.0,,"1,915",Ipsos Reid,online
+180,4.0,False,33.0,"January 6, 2015",±2.0 pp,5.0,37.0,PDF,4,20.0,,"1,741",Forum Research,IVR
+181,4.0,False,34.0,"December 20, 2014",±2.6 pp,6.0,33.0,PDF,1,22.0,,"1,438",Abacus Data,online
+182,5.3,False,29.8,"December 18, 2014",±1.7 pp,7.7,33.8,PDF,3.0,20.2,,"2,183",EKOS,IVR
+183,4.0,False,34.0,"December 13, 2014",±1.2 pp,5.0,34.0,PDF,Tie,22.0,,"6,325",Angus Reid,online
+184,5.0,False,30.8,"December 12, 2014",±1.7 pp,7.8,31.8,PDF,1,20.0,,"3,276",EKOS,IVR
+185,3.0,False,33.0,"December 11, 2014",±2.0 pp,5.0,41.0,PDF,8,17.0,,"1,658",Forum Research,IVR
+186,4.0,False,32.0,"December 11, 2014",±2.5 pp,6.0,38.0,PDF,6,19.0,,"1,521",Leger Marketing,online
+187,5.0,False,33.0,"December 1, 2014",±1.2 pp,4.0,34.0,HTML,1,24.0,,"8,268",Ipsos Reid,online
+188,4.0,False,33.0,"November 20, 2014",±3.0 pp,8.0,36.0,PDF,3,18.0,,"1,500",Forum Research,IVR
+189,3.5,False,30.2,"November 6, 2014",±2.5 pp,9.7,33.5,PDF,3.3,20.5,,"1,561",EKOS,IVR
+190,3.0,False,33.0,"November 6, 2014",±2.5 pp,7.0,36.0,PDF,3,19.0,,"1,493",Leger Marketing,online
+191,4.0,False,30.0,"November 4, 2014",±2.3 pp,6.0,35.0,PDF,5,24.0,,"1,850",Abacus Data,online
+192,5.5,False,27.8,"October 29, 2014",±2.4 pp,8.2,33.4,PDF,5.6,21.4,,"1,628",EKOS,IVR
+193,4.0,False,30.0,"October 17, 2014",±2.8 pp,8.0,32.0,PDF,2,25.0,,"1,248",Abacus Data,online
+194,4.0,False,32.0,"October 16, 2014",±2.5 pp,5.0,37.0,PDF,5,21.0,,"1,524",Leger Marketing,online
+195,3.1,False,26.4,"October 15, 2014",±2.4 pp,5.7,38.5,PDF,12.1,25.0,,"1,671",EKOS,telephone/online
+196,4.0,False,34.0,"October 5, 2014",±2.5 pp,4.0,38.0,PDF,4,19.0,,"1,504",Forum Research,IVR
+197,4.0,False,24.9,"September 25, 2014",±2.5 pp,7.7,38.3,PDF,13.4,24.4,,"1,549",EKOS,telephone/online
+198,4.0,False,30.0,"September 19, 2014",±2.5 pp,6.0,36.0,PDF,6,22.0,,"1,502",Angus Reid,online
+199,3.0,False,30.0,"September 14, 2014",±3.1 pp,5.0,38.0,PDF,8,23.0,,"1,075",Abacus Data,online
+200,5.0,False,31.0,"September 12, 2014",±2.8 pp,3.0,38.0,HTML,7,23.0,,"1,605",Ipsos Reid,online
+201,4.0,False,34.0,"September 5, 2014",±3.0 pp,3.0,40.0,PDF,6,18.0,,"1,267",Forum Research,IVR
+202,5.0,False,32.0,"August 19, 2014",±2.0 pp,5.0,41.0,PDF,9,17.0,,"1,798",Forum Research,IVR
+203,5.0,False,29.0,"August 18, 2014",±2.5 pp,7.0,35.0,PDF,6,22.0,,"1,614",Abacus Data,online
+204,3.0,False,31.0,"August 17, 2014",±3.5 pp,3.0,38.0,HTML,7,24.0,,"1,012",Ipsos Reid,online
+205,3.7,False,25.6,"July 23, 2014",±1.9 pp,7.1,38.7,PDF,12.1,23.4,,"2,620",EKOS,telephone/online
+206,5.0,False,28.0,"July 18, 2014",±2.0 pp,3.0,44.0,PDF,16,18.0,,"1,624",Forum Research,IVR
+207,5.0,False,31.0,"July 3, 2014",±2.2 pp,6.0,34.0,PDF,3,23.0,,"2,000",Abacus Data,online
+208,4.0,False,31.0,"June 17, 2014",±2.0 pp,5.0,39.0,PDF,8,19.0,,"1,683",Forum Research,IVR
+209,5.0,False,31.0,"June 12, 2014",±1.2 pp,6.0,30.0,PDF,1,27.0,,"6,264",Angus Reid,online
+210,5.0,False,31.0,"May 23, 2014",±3.4 pp,7.0,30.0,PDF,1,25.0,,"1,503",Angus Reid,online
+211,6.0,False,30.0,"May 23, 2014",±2.0 pp,5.0,36.0,PDF,6,23.0,,"1,694",Forum Research,IVR
+212,5.3,False,27.6,"May 1, 2014",±1.6 pp,8.2,34.9,PDF,7.3,21.4,,"3,677",EKOS,IVR
+213,6.0,False,30.0,"April 29, 2014",±2.0 pp,4.0,39.0,PDF,9,20.0,,"1,572",Forum Research,IVR
+214,6.0,False,33.0,"April 22, 2014",±3.5 pp,4.0,33.0,HTML,Tie,24.0,,"1,014",Ipsos Reid,online
+215,5.0,False,32.0,"April 15, 2014",±3.4 pp,6.0,30.0,PDF,2,26.0,,"1,505",Angus Reid,online
+216,4.8,False,26.7,"April 3, 2014",±1.5 pp,8.1,35.8,PDF,9.1,21.8,,"4,134",EKOS,IVR
+217,5.0,False,29.0,"March 28, 2014",±2.0 pp,3.0,39.0,PDF,10,22.0,,"1,764",Forum Research,IVR
+218,5.0,False,28.0,"March 9, 2014",±1.2 pp,6.0,33.0,PDF,5,27.0,,"6,445",Angus Reid,online
+219,8.0,False,28.0,"March 5, 2014",±2.8 pp,6.0,34.0,PDF,6,23.0,,"1,249",Abacus Data,online
+220,6.0,False,29.0,"February 19, 2014",±2.0 pp,4.0,39.0,PDF,10,21.0,,"1,824",Forum Research,IVR
+221,5.0,False,29.0,"February 18, 2014",±3.5 pp,5.0,37.0,HTML,8,24.0,,"1,034",Ipsos Reid,online
+222,5.0,False,28.0,"February 16, 2014",±2.5 pp,6.0,33.0,PDF,5,26.0,,"1,514",Angus Reid,online
+223,6.4,False,28.7,"February 15, 2014",±3.4 pp,5.3,34.0,PDF,5.3,23.2,,"1,000",Nanos Research,telephone
+224,7.0,False,29.0,"February 4, 2014",±3.5 pp,4.0,33.0,HTML,4,27.0,,"1,001",Ipsos Reid,online
+225,4.5,False,29.7,"January 27, 2014",±2.5 pp,6.2,33.2,PDF,3.5,24.3,,"1,501",EKOS,telephone/online
+226,5.0,False,28.0,"January 25, 2014",±3.0 pp,4.0,38.0,PDF,10,24.0,,"1,228",Forum Research,IVR
+227,5.0,False,28.0,"January 18, 2014",±2.2 pp,7.0,34.0,PDF,6,24.0,,"1,996",Abacus Data,online
+228,5.0,False,28.0,"January 17, 2014",±2.0 pp,4.0,37.0,PDF,9,25.0,,"1,779",Forum Research,IVR
+229,6.3,False,26.2,"December 15, 2013",±1.7 pp,9.3,32.1,PDF,5.9,22.9,,"3,468",EKOS,IVR
+230,5.0,False,32.0,"December 13, 2013",±2.0 pp,3.0,38.0,PDF,6,21.0,,"1,634",Forum Research,IVR
+231,6.0,False,29.0,"November 27, 2013",±3.5 pp,3.0,35.0,HTML,6,26.0,,"1,014",Ipsos Reid,online
+232,7.0,False,26.0,"November 25, 2013",±2.2 pp,7.0,36.0,PDF[permanent dead link],10,23.0,,"2,034",Harris-Decima,telephone
+233,6.0,False,29.0,"November 13, 2013",±2.0 pp,4.0,38.0,PDF,9,22.0,,"1,834",Forum Research,IVR
+234,5.2,False,26.4,"October 29, 2013",±2.6 pp,5.2,37.4,PDF,11.0,24.9,,"1,377",EKOS,telephone/online
+235,6.0,False,30.0,"October 28, 2013",±3.4 pp,2.0,31.0,HTML,Tie,31.0,,"1,102",Ipsos Reid,online
+236,6.0,False,28.0,"October 23, 2013",±3.0 pp,5.0,40.0,PDF,12,20.0,,"1,007",Forum Research,IVR
+237,7.0,False,30.0,"October 22, 2013",±2.0 pp,5.0,39.0,PDF,9,19.0,,"1,859",Forum Research,IVR
+238,5.0,False,32.0,"October 22, 2013",±2.6 pp,7.0,32.0,PDF,Tie,23.0,,"1,459",Abacus Data,online
+239,6.0,False,31.0,"October 20, 2013",±3.4 pp,2.0,33.0,HTML,2,27.0,,"1,042",Ipsos Reid,online
+240,5.0,False,29.0,"October 18, 2013",±3.5 pp,5.0,37.0,PDF,8,23.0,,"1,000",Nanos Research,telephone
+241,5.0,False,26.1,"October 14, 2013",±2.5 pp,6.5,36.3,PDF,10.2,24.9,,"1,554",EKOS,telephone/online
+242,7.0,False,32.0,"September 20, 2013",±3.5 pp,3.0,31.0,HTML,1,26.0,,"1,035",Ipsos Reid,online
+243,7.0,False,31.0,"September 17, 2013",±3.0 pp,4.0,36.0,PDF,5,21.0,,"1,527",Forum Research,IVR
+244,6.0,False,29.0,"September 9, 2013",±2.2 pp,6.0,33.0,PDF,4,24.0,,"2,020",Harris-Decima,telephone
+245,8.0,False,30.0,"September 4, 2013",±2.5 pp,4.0,29.0,PDF,1,27.0,,"1,600",Abacus Data,online
+246,5.0,False,30.0,"August 31, 2013",±3.5 pp,5.0,33.0,PDF,3,25.0,,"1,000",Nanos Research,telephone
+247,6.0,False,29.0,"August 23, 2013",±3.0 pp,4.0,38.0,PDF,9,22.0,,"1,189",Forum Research,IVR
+248,3.9,False,29.7,"August 22, 2013",±3.3 pp,5.5,35.7,PDF,6.0,24.8,,"1,000",Nanos Research,telephone/online
+249,2.5,False,31.9,"August 19, 2013",±2.2 pp,5.9,35.3,PDF,3.4,22.8,,"2,000",Nanos Research,telephone
+250,7.0,False,31.0,"July 23, 2013",±2.0 pp,4.0,35.0,PDF,4,22.0,,"1,782",Forum Research,IVR
+251,6.3,False,28.4,"July 9, 2013",±1.8 pp,8.5,30.4,PDF,2.0,23.4,,"2,900",EKOS,IVR
+252,6.0,False,28.0,"June 30, 2013",±2.4 pp,6.0,34.0,PDF[permanent dead link],6,24.0,,"2,149",Environics,telephone
+253,6.0,False,30.0,"June 25, 2013",±3.3 pp,4.0,33.0,HTML,3,28.0,,"1,177",Ipsos Reid,online
+254,6.0,False,27.0,"June 23, 2013",±3.1 pp,10.0,29.0,HTML,2,26.0,,999,Abacus Data,online
+255,4.0,False,29.0,"June 19, 2013",±2.5 pp,8.0,37.0,PDF,8,21.0,,"1,503",Leger Marketing,online
+256,3.7,False,29.4,"June 19, 2013",±3.5 pp,6.4,34.2,PDF,4.8,25.3,,"1,000",Nanos Research,telephone/online
+257,6.0,False,30.0,"June 18, 2013",±2.0 pp,4.0,38.0,PDF,8,20.0,,"1,525",Forum Research,IVR
+258,4.0,False,30.0,"May 28, 2013",±3.5 pp,4.0,36.0,HTML,6,27.0,,"1,009",Ipsos Reid,online
+259,5.4,False,26.3,"May 26, 2013",±1.7 pp,9.2,34.7,HTML,8.4,20.9,,"3,318",EKOS,IVR
+260,4.0,False,27.0,"May 22, 2013",±2.0 pp,3.0,44.0,PDF,17,20.0,,"1,779",Forum Research,IVR
+261,4.2,False,26.2,"May 2, 2013",±2.7 pp,6.3,38.6,PDF,12.4,23.9,,"1,309",EKOS,telephone/online
+262,5.0,False,32.0,"April 30, 2013",±3.4 pp,3.0,35.0,HTML,3,25.0,,"1,059",Ipsos Reid,online
+263,6.0,False,28.0,"April 28, 2013",±2.2 pp,7.0,35.0,PDF,7,22.0,,"2,008",Harris-Decima,telephone
+264,5.0,False,30.0,"April 15, 2013",±2.0 pp,2.0,43.0,PDF,13,19.0,,"1,764",Forum Research,IVR
+265,6.4,False,28.8,"April 10, 2013",±1.5 pp,9.0,29.1,PDF,0.3,23.3,,"4,568",EKOS,IVR
+266,4.8,False,31.3,"April 8, 2013",±3.3 pp,4.2,35.4,PDF,4.1,23.6,,"1,002",Nanos Research,telephone/online
+267,5.0,False,33.0,"April 6, 2013",±2.6 pp,7.0,27.0,PDF,6,27.0,,"1,511",Abacus Data,online
+268,6.0,False,31.0,"April 3, 2013",±3.4 pp,4.0,32.0,HTML,1,27.0,,"1,053",Ipsos Reid,
+269,5.0,False,29.0,"April 2, 2013",±3.0 pp,6.0,33.0,PDF,4,25.0,,"1,310",Forum Research,IVR
+270,7.0,False,31.0,"March 28, 2013",±2.5 pp,7.0,30.0,PDF,1,24.0,,"1,511",Leger Marketing,online
+271,5.0,False,32.0,"March 21, 2013",±3.1 pp,8.0,24.0,PDF,1,31.0,,"1,014",Abacus Data,online
+272,6.0,False,31.0,"March 7, 2013",±2.0 pp,5.0,30.0,PDF,1,27.0,,"1,755",Forum Research,IVR
+273,5.2,False,31.5,"February 24, 2013",±3.7 pp,5.9,29.1,PDF,2.4,27.2,,"1,000",Nanos Research,telephone
+274,7.2,False,29.3,"February 10, 2013",±1.3 pp,9.5,24.6,PDF,3.0,26.3,,"5,947",EKOS,IVR
+275,6.0,False,32.0,"February 6, 2013",±3.0 pp,4.0,30.0,PDF,2,26.0,,"1,091",Forum Research,IVR
+276,6.0,False,35.0,"February 6, 2013",±2.3 pp,6.0,21.0,PDF,4,31.0,,"1,832",Abacus Data,online
+277,4.6,False,34.3,"January 31, 2013",±3.5 pp,4.7,27.6,PDF,6.7,27.1,,"1,000",Nanos Research,telephone
+278,7.0,False,36.0,"January 17, 2013",±2.0 pp,4.0,25.0,PDF,8,28.0,,"1,626",Forum Research,IVR
+279,6.0,False,35.0,"January 17, 2013",±2.2 pp,6.0,22.0,PDF,6,29.0,,"2,028",Angus Reid,online
+280,6.0,False,35.0,"January 3, 2013",±3.1 pp,6.0,19.0,PDF,2,33.0,,"1,012",Angus Reid,online
+281,6.0,False,31.0,"December 18, 2012",±2.0 pp,6.0,27.0,PDF,3,28.0,,"1,355",Forum Research,IVR
+282,6.0,False,34.0,"December 8, 2012",±2.6 pp,6.0,22.0,PDF,2,32.0,,"1,505",Abacus Data,online
+283,7.0,False,35.0,"December 6, 2012",±2.5 pp,9.0,18.0,PDF,5,30.0,,"1,500",Leger Marketing,online
+284,6.7,False,31.9,"December 3, 2012",±1.3 pp,8.4,24.4,PDF,6.1,25.8,,"5,433",EKOS,IVR
+285,6.0,False,33.0,"November 19, 2012",±2.0 pp,4.0,28.0,PDF,5,28.0,,"1,849",Forum Research,IVR
+286,4.9,False,33.8,"November 15, 2012",±3.5 pp,3.7,29.0,PDF,4.8,27.2,,"1,004",Nanos Research,telephone
+287,7.0,False,36.0,"November 11, 2012",±3.0 pp,6.0,22.0,PDF,7,29.0,,"1,068",Abacus Data,online
+288,7.0,False,34.0,"November 8, 2012",±2.5 pp,2.0,26.0,HTML,4,30.0,,"2,009",Ipsos Reid,telephone/online
+289,6.0,False,31.0,"October 27, 2012",±2.0 pp,4.0,27.0,PDF,1,32.0,,"1,735",Forum Research,IVR
+290,4.7,False,33.3,"October 11, 2012",±3.4 pp,2.9,30.1,PDF,3.2,27.9,,"1,000",Nanos Research,telephone
+291,6.0,False,35.0,"September 26, 2012",±2.0 pp,3.0,25.0,PDF,5,30.0,,"1,707",Forum Research,IVR
+292,9.0,False,31.0,"September 23, 2012",±2.4 pp,5.0,20.0,PDF,4,35.0,,"2,000",Environics,telephone
+293,7.0,False,35.0,"September 18, 2012",±2.9 pp,6.0,17.0,PDF,Tie,35.0,,"1,208",Abacus Data,online
+294,6.0,False,34.0,"September 10, 2012",±2.2 pp,7.0,24.0,HTML,7,27.0,,"2,007",Harris-Decima,telephone
+295,5.8,False,32.4,"September 9, 2012",±3.4 pp,5.0,24.6,PDF,2.0,30.4,,"1,000",Nanos Research,telephone
+296,6.0,False,34.0,"August 22, 2012",±2.4 pp,4.0,22.0,PDF,Tie,34.0,,"1,720",Forum Research,IVR
+297,6.0,False,37.0,"August 12, 2012",±2.2 pp,6.0,20.0,HTML,5,32.0,,"2,099",Abacus Data,online
+298,6.0,False,31.0,"July 26, 2012",±2.4 pp,5.0,22.0,PDF,4,35.0,,"1,639",Forum Research,IVR
+299,4.4,False,33.6,"July 12, 2012",±3.2 pp,4.2,26.5,PDF,3.3,30.3,,"1,200",Nanos Research,telephone
+300,4.9,False,30.2,"July 5, 2012",±2.1 pp,10.0,19.5,PDF,2.1,32.3,,"2,098",EKOS,IVR
+301,6.0,False,35.0,"June 27, 2012",±2.9 pp,3.0,19.0,PDF,Tie,35.0,,"1,165",Forum Research,IVR
+302,6.5,False,29.3,"June 26, 2012",±2.2 pp,9.5,19.2,PDF,3.1,32.4,,"2,049",EKOS,IVR
+303,5.0,False,35.0,"June 23, 2012",±3.1 pp,6.0,20.0,HTML,Tie,35.0,,"1,008",Abacus Data,online
+304,7.0,False,33.0,"June 23, 2012",±2.4 pp,5.0,19.0,PDF,2,35.0,,"2,093",Environics,telephone
+305,6.0,False,35.0,"June 21, 2012",±3.1 pp,4.0,18.0,HTML,3,38.0,,"1,099",Ipsos Reid,online
+306,5.0,False,31.0,"June 18, 2012",±2.2 pp,7.0,23.0,PDF,1,32.0,,"2,000",Harris-Decima,telephone
+307,6.0,False,34.0,"June 16, 2012",±2.5 pp,5.0,19.0,PDF,1,35.0,,"1,500",Angus Reid,online
+308,6.0,False,30.0,"June 14, 2012",±2.5 pp,5.0,22.0,PDF,7,37.0,,"1,529",Forum Research,IVR
+309,3.4,False,33.5,"May 31, 2012",±3.1 pp,2.4,24.9,PDF,0.1,33.6,,"1,201",Nanos Research,telephone
+310,5.0,False,32.0,"May 23, 2012",±2.3 pp,6.0,20.0,PDF,4,36.0,,"1,836",Forum Research,IVR
+311,7.0,False,37.0,"May 23, 2012",±3.1 pp,4.0,18.0,PDF,4,33.0,,"1,014",Angus Reid,online
+312,6.0,False,37.0,"May 16, 2012",±3.1 pp,5.0,17.0,PDF,2,35.0,,"1,008",Abacus Data,online
+313,5.0,False,37.0,"May 10, 2012",±2.0 pp,3.0,19.0,HTML,2,35.0,,"2,061",Ipsos Reid,telephone/online
+314,6.0,False,32.0,"May 9, 2012",±3.5 pp,7.0,19.0,PDF,4,36.0,,"1,000",Environics,telephone
+315,7.0,False,30.0,"May 6, 2012",±2.2 pp,8.0,20.0,PDF,4,34.0,,"2,018",Harris-Decima,telephone
+316,7.0,False,30.0,"April 30, 2012",±3.1 pp,8.0,20.0,PDF,3,33.0,,"1,006",Harris-Decima,telephone
+317,6.0,False,33.0,"April 25, 2012",±2.4 pp,2.0,22.0,PDF,3,36.0,,"1,744",Forum Research,IVR
+318,3.9,False,34.7,"April 18, 2012",±3.2 pp,4.2,23.3,PDF,2.3,32.4,,"1,200",Nanos Research,telephone
+319,7.0,False,34.0,"April 5, 2012",±2.0 pp,4.0,21.0,HTML,1,33.0,,"1,008",Ipsos Reid,telephone
+320,7.0,False,32.0,"April 4, 2012",±2.5 pp,8.0,19.0,PDF,1,33.0,,"1,506",Leger Marketing,online
+321,6.0,False,34.0,"April 2, 2012",±2.2 pp,8.0,19.0,PDF[permanent dead link],2,32.0,,"2,003",Harris-Decima,telephone
+322,5.0,False,36.0,"March 30, 2012",±2.4 pp,5.0,19.0,PDF,2,34.0,,"1,675",Forum Research,IVR
+323,7.0,False,35.0,"March 27, 2012",±2.4 pp,3.0,19.0,PDF,Tie,35.0,,"1,638",Forum Research,IVR
+324,8.0,False,37.0,"March 21, 2012",±3.1 pp,4.0,21.0,PDF,8,29.0,,"1,004",Angus Reid,online
+325,6.0,False,37.0,"March 21, 2012",±2.8 pp,7.0,24.0,PDF,12,25.0,,"1,193",Innovative Research,online
+326,8.0,False,31.0,"March 19, 2012",±2.2 pp,7.0,24.0,PDF,3,28.0,,"2,005",Harris-Decima,telephone
+327,8.0,False,30.0,"March 18, 2012",±2.4 pp,7.0,20.0,PDF,Tie,30.0,,"2,000",Environics,telephone
+328,8.0,False,37.0,"March 13, 2012",±3.1 pp,7.0,20.0,HTML,9,28.0,,"1,003",Abacus Data,online
+329,5.8,False,35.4,"March 11, 2012",±2.2 pp,8.1,19.6,PDF,5.7,29.7,,"2,011",EKOS,telephone/online
+330,7.0,False,37.0,"March 8, 2012",±2.0 pp,4.0,23.0,HTML,8,29.0,,"3,154",Ipsos Reid,telephone/online
+331,8.0,False,34.0,"March 5, 2012",±2.0 pp,7.0,24.0,PDF,8,26.0,,"2,509",Leger Marketing,online
+332,5.0,False,37.0,"March 3, 2012",±2.4 pp,4.0,25.0,PDF,9,28.0,,"1,675",Forum Research,IVR
+333,4.9,False,35.7,"February 29, 2012",±3.1 pp,3.4,29.5,PDF,6.2,25.0,,"1,203",Nanos Research,telephone
+334,6.0,False,31.5,"February 28, 2012",±1.6 pp,8.3,21.7,PDF,2.3,29.2,,"3,699",EKOS,IVR
+335,6.0,False,36.0,"February 6, 2012",±2.8 pp,3.0,26.0,PDF,8,28.0,,"1,210",Forum Research,IVR
+336,5.6,False,35.7,"January 23, 2012",±3.2 pp,4.5,27.6,PDF,8.1,25.2,,"1,201",Nanos Research,telephone
+337,5.0,False,32.0,"January 22, 2012",±2.2 pp,7.0,25.0,PDF,3,29.0,,"2,000",Harris-Decima,telephone
+338,6.0,False,39.0,"January 21, 2012",±3.1 pp,5.0,22.0,PDF,11,28.0,,"1,000",Angus Reid,online
+339,6.0,False,37.0,"January 19, 2012",±3.1 pp,7.0,21.0,PDF,9,28.0,,"1,000",Abacus Data,online
+340,6.0,False,35.0,"January 13, 2012",±2.8 pp,4.0,25.0,PDF,7,28.0,,"1,211",Forum Research,IVR
+341,6.7,False,31.4,"December 21, 2011",±2.2 pp,6.1,24.8,PDF,1.9,29.5,,"2,005",EKOS,telephone/online
+342,4.4,False,36.5,"December 18, 2011",±3.3 pp,3.8,25.6,PDF,7.8,28.7,,"1,201",Nanos Research,telephone
+343,6.0,False,33.0,"December 13, 2011",±2.9 pp,8.0,21.0,PDF,6,27.0,,"1,160",Forum Research,IVR
+344,6.0,False,34.0,"December 12, 2011",±2.2 pp,7.0,22.0,PDF,6,28.0,,"2,005",Harris-Decima,telephone
+345,6.0,False,40.0,"December 4, 2011",±3.1 pp,5.0,18.0,PDF,9,31.0,,"1,004",Abacus Data,online
+346,3.9,False,35.6,"November 21, 2011",±3.2 pp,3.9,28.1,PDF,7.5,27.3,,"1,202",Nanos Research,telephone
+347,6.0,False,37.0,"November 9, 2011",,3.0,21.0,HTML,6,31.0,,,Ipsos Reid,
+348,5.0,False,36.0,"November 6, 2011",±2.2 pp,7.0,22.0,PDF,7,29.0,,"2,000",Harris-Decima,telephone
+349,3.6,False,37.7,"October 24, 2011",±3.2 pp,3.8,23.4,PDF,7.7,30.0,,"1,202",Nanos Research,telephone
+350,3.5,False,39.0,"October 2, 2011",±3.2 pp,2.9,24.5,PDF,10.0,29.0,,"1,209",Nanos Research,telephone
+351,5.0,False,39.0,"September 21, 2011",±2.4 pp,4.0,21.0,PDF,10,29.0,,"1,668",Angus Reid,online
+352,5.0,False,39.0,"September 15, 2011",±2.4 pp,6.0,17.0,HTML,6,33.0,,"1,625",Leger Marketing,online
+353,2.6,False,39.5,"September 1, 2011",±3.2 pp,3.4,20.7,PDF,6.4,33.1,,"1,210",Nanos Research,telephone
+354,6.0,False,33.0,"August 29, 2011",±2.2 pp,7.0,21.0,PDF,Tie,33.0,,"2,026",Harris-Decima,telephone
+355,5.0,False,38.0,"August 15, 2011",±3.2 pp,6.0,19.0,PDF,6,32.0,,"1,003",Abacus Data,online
+356,6.0,False,39.0,"August 9, 2011",±3.1 pp,4.0,19.0,PDF,8,31.0,,"1,005",Angus Reid,online
+357,4.4,False,36.2,"August 2, 2011",±3.1 pp,4.5,27.0,PDF,9.2,26.8,,"1,203",Nanos Research,telephone
+358,6.0,False,41.0,"June 24, 2011",±3.2 pp,5.0,17.0,PDF,9,32.0,,"1,005",Abacus Data,online
+359,3.4,False,41.8,"June 19, 2011",±3.1 pp,3.7,22.3,PDF,13.8,28.0,,"1,211",Nanos Research,telephone
+360,2.7,False,39.7,"May 29, 2011",±3.1 pp,4.8,21.5,PDF,9.8,29.9,,"1,205",Nanos Research,telephone
+361,5.0,False,38.0,"May 22, 2011",±2.2 pp,7.0,15.0,HTML,5,33.0,,"2,000",Harris-Decima,telephone
+362,6.0,False,40.0,"May 19, 2011",±2.5 pp,5.0,16.0,PDF,7,33.0,,"1,544",Abacus Data,online
+0,4.0,False,34.0,"March 10, 2019",±3.3 pp,11.0,32.0,HTML,2.0,16.0,,900 (1/3),Abacus Data,online (rolling)
+1,4.0,False,36.0,"March 10, 2019",±2.5 pp,10.0,30.0,HTML,6.0,16.0,2.0,"1,893",Campaign Research,online
+2,4.0,False,35.0,"March 9, 2019",±3.3 pp,11.0,31.0,HTML,4.0,16.0,,900 (1/3),Abacus Data,online (rolling)
+3,5.0,False,36.0,"March 8, 2019",±3.3 pp,10.0,31.0,HTML,5.0,15.0,,900 (1/3),Abacus Data,online (rolling)
+4,3.6,False,36.1,"March 8, 2019",±3.1 pp,8.3,32.9,PDF,3.2,17.9,0.5,"1,000 (1/4)",Nanos Research,telephone (rolling)
+5,4.0,False,34.0,"March 7, 2019",±3.3 pp,10.0,33.0,HTML,1.0,16.0,,900 (1/3),Abacus Data,online (rolling)
+6,4.0,False,34.0,"March 6, 2019",±3.3 pp,9.0,32.0,HTML,2.0,18.0,,900 (1/3),Abacus Data,online (rolling)
+7,4.0,False,35.0,"March 5, 2019",±3.3 pp,9.0,31.0,HTML,4.0,17.0,,900 (1/3),Abacus Data,online (rolling)
+8,5.0,False,32.0,"March 4, 2019",,9.0,36.0,PDF,4.0,13.0,5.0,"2,122",Innovative Research,online
+9,4.0,False,40.0,"March 4, 2019",±3.5 pp,4.0,31.0,HTML,9.0,20.0,0.0,"1,000",Ipsos,online
+10,5.0,False,36.0,"March 4, 2019",±2.6 pp,9.0,30.0,HTML,6.0,17.0,,"1,500",Abacus Data,online
+11,3.6,False,34.7,"March 1, 2019",±3.1 pp,9.1,34.2,PDF,0.5,15.5,0.7,"1,000 (1/4)",Nanos Research,telephone (rolling)
+12,3.0,False,42.0,"February 28, 2019",±3 pp,5.0,33.0,PDF,9.0,12.0,4.0,"1,301",Forum Research,IVR
+13,4.0,False,33.0,"February 26, 2019",±2.1 pp,9.0,32.0,HTML,1.0,17.0,,"2,374",Abacus Data,online
+14,5.0,False,38.0,"February 24, 2019",±3.1 pp,8.0,31.0,PDF,7.0,14.0,,"1,009",Angus Reid,online
+15,3.7,False,33.6,"February 22, 2019",±3.1 pp,8.4,35.7,PDF,2.1,15.0,1.2,"1,000 (1/4)",Nanos Research,telephone (rolling)
+16,5.0,False,36.0,"February 19, 2019",±2.5 pp,8.0,34.0,PDF,2.0,12.0,4.0,"1,529",Léger,online
+17,6.0,False,36.0,"February 18, 2019",±3.5 pp,,34.0,HTML,2.0,17.0,,"1,002",Ipsos,online
+18,4.1,False,31.8,"February 15, 2019",±3.1 pp,7.8,37.9,PDF,6.1,13.7,1.5,"1,000 (1/4)",Nanos Research,telephone (rolling)
+19,4.0,False,35.0,"February 11, 2019",±2.0 pp,9.0,33.0,HTML,2.0,15.0,,"2,500",Abacus Data,online
+20,5.0,False,37.0,"February 11, 2019",±2.5 pp,7.0,32.0,HTML,5.0,14.0,3.0,"1,590",Campaign Research,online
+21,3.8,False,34.4,"February 8, 2019",±3.1 pp,7.4,37.5,PDF,3.1,13.0,1.7,"1,000 (1/4)",Nanos Research,telephone (rolling)
+22,4.0,False,34.0,"February 5, 2019",±2.0 pp,8.0,34.0,HTML,0.0,17.0,,"2,500",Abacus Data,online
+23,3.1,False,35.9,"February 1, 2019",±3.1 pp,7.9,37.6,PDF,1.7,13.2,1.7,"1,000 (1/4)",Nanos Research,telephone (rolling)
+24,3.0,False,36.6,"January 25, 2019",±3.1 pp,8.1,37.6,PDF,1.0,12.8,1.2,"1,000 (1/4)",Nanos Research,telephone (rolling)
+25,5.0,False,32.0,"January 24, 2019",,8.0,38.0,PDF,6.0,12.0,4.0,"2,451",Innovative Research,online
+26,3.2,False,35.1,"January 18, 2019",±1.1 pp,7.2,37.2,HTML,2.1,11.5,4.2,"7,941",Mainstreet Research,IVR
+27,3.2,False,36.1,"January 18, 2019",±3.1 pp,7.4,37.2,PDF,1.1,14.2,1.5,"1,000 (1/4)",Nanos Research,telephone (rolling)
+28,3.3,False,33.9,"January 11, 2019",±3.1 pp,6.9,38.1,PDF,4.2,15.4,1.6,"1,000 (1/4)",Nanos Research,telephone (rolling)
+29,5.0,False,33.0,"January 7, 2019",,8.0,36.0,PDF,3.0,15.0,4.0,"2,700",Innovative Research,online
+30,3.0,False,33.3,"January 4, 2019",±3.1 pp,6.0,38.7,PDF,5.4,16.7,1.4,"1,000 (1/4)",Nanos Research,telephone (rolling)
+31,3.4,False,34.4,"December 28, 2018",±3.1 pp,6.4,36.8,PDF,2.4,16.1,1.2,"1,000 (1/4)",Nanos Research,telephone (rolling)
+32,3.8,False,34.1,"December 21, 2018",±3.1 pp,7.0,35.2,PDF,1.1,16.0,1.5,"1,000 (1/4)",Nanos Research,telephone (rolling)
+33,4.0,False,34.0,"December 18, 2018",±2.5 pp,7.0,35.0,HTML,1.0,17.0,,"2,000",Abacus Data,online
+34,3.4,False,33.9,"December 14, 2018",±3.1 pp,6.6,36.0,PDF,2.1,16.6,0.7,"1,000 (1/4)",Nanos Research,telephone (rolling)
+35,4.0,False,35.0,"December 13, 2018",±2.5 pp,8.0,33.0,HTML,2.0,16.0,2.0,"1,494",Campaign Research,online
+36,4.0,False,33.0,"December 12, 2018",±2.5 pp,,38.0,HTML,5.0,18.0,,"2,001",Ipsos,online
+37,3.1,False,34.8,"December 7, 2018",±3.1 pp,8.2,34.1,PDF,0.7,15.8,0.8,"1,000 (1/4)",Nanos Research,telephone (rolling)
+38,3.0,False,32.2,"November 30, 2018",±3.1 pp,7.6,37.9,PDF,5.7,14.3,0.8,"1,000 (1/4)",Nanos Research,telephone (rolling)
+39,4.0,False,43.0,"November 29, 2018",±3 pp,6.0,34.0,PDF,9.0,11.0,,"1,541",Forum Research,IVR
+40,2.4,False,31.5,"November 23, 2018",±3.1 pp,6.9,39.6,PDF,8.1,14.5,1.1,"1,000 (1/4)",Nanos Research,telephone (rolling)
+41,4.0,False,33.0,"November 20, 2018",±2.51 pp,5.0,39.0,PDF,6.0,14.0,4.0,"1,521",Léger,online
+42,2.5,False,28.7,"November 16, 2018",±3.1 pp,7.3,39.4,PDF,10.7,17.2,1.1,"1,000 (1/4)",Nanos Research,telephone (rolling)
+43,4.0,False,32.0,"November 15, 2018",,8.0,38.0,PDF,6.0,14.0,3.0,"2,490",Innovative Research,online
+44,4.0,False,31.0,"November 13, 2018",±2.6 pp,9.0,38.0,HTML,7.0,16.0,,"1,500",Abacus Data,online
+45,4.0,False,35.0,"November 9, 2018",±2.5 pp,7.0,35.0,HTML,0.0,17.0,,"2,512",Campaign Research,online
+46,2.0,False,27.5,"November 9, 2018",±3.1 pp,6.1,39.4,PDF,11.9,19.8,1.4,"1,000 (1/4)",Nanos Research,telephone (rolling)
+47,3.4,False,34.6,"November 7, 2018",±1.09 pp,6.8,39.3,HTML,4.7,10.8,3.8,"7,961",Mainstreet Research,IVR
+48,1.9,False,28.1,"November 2, 2018",±3.1 pp,6.9,39.6,PDF,11.5,19.3,1.2,"1,000 (1/4)",Nanos Research,telephone (rolling)
+49,2.8,False,28.2,"October 26, 2018",±3.1 pp,6.5,39.4,PDF,11.2,19.3,1.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+50,3.6,False,29.4,"October 19, 2018",±3.1 pp,7.0,39.5,PDF,10.1,16.9,1.4,"1,000 (1/4)",Nanos Research,telephone (rolling)
+51,3.7,False,31.4,"October 12, 2018",±3.1 pp,7.2,37.1,PDF,5.7,16.1,1.3,"1,000 (1/4)",Nanos Research,telephone (rolling)
+52,4.0,False,41.0,"October 10, 2018",±3 pp,7.0,32.0,PDF,9.0,15.0,,"1,226",Forum Research,IVR
+53,4.0,False,35.0,"October 9, 2018",±2.5 pp,,36.0,PDF,1.0,20.0,,"2,001",Ipsos,online
+54,3.8,False,31.1,"October 5, 2018",±3.1 pp,6.7,37.3,PDF,6.2,16.2,,"1,000 (1/4)",Nanos Research,telephone (rolling)
+55,5.0,False,31.0,"October 1, 2018",,7.0,38.0,PDF,7.0,15.0,3.0,"2,410",Innovative Research,online
+56,2.6,False,31.7,"September 28, 2018",±3.1 pp,6.0,38.0,PDF,6.3,16.7,,"1,000 (1/4)",Nanos Research,telephone (rolling)
+57,2.4,False,31.2,"September 21, 2018",±3.1 pp,5.5,39.0,PDF,7.8,17.0,,"1,000 (1/4)",Nanos Research,telephone (rolling)
+58,3.0,False,34.0,"September 20, 2018",±3.1 pp,7.0,40.0,PDF,6.0,12.0,2.0,"1,002",Pollara,online
+59,3.0,False,34.0,"September 19, 2018",±2.2 pp,7.0,38.0,HTML,4.0,17.0,,"2,000",Abacus Data,online
+60,5.0,False,38.0,"September 19, 2018",±2.1 pp,8.0,30.0,PDF,8.0,17.0,,"5,769",DART,online
