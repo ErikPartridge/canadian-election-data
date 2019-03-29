@@ -1044,3 +1044,230 @@
 58,3.0,False,34.0,"September 20, 2018",±3.1 pp,7.0,40.0,PDF,6.0,12.0,2.0,"1,002",Pollara,online
 59,3.0,False,34.0,"September 19, 2018",±2.2 pp,7.0,38.0,HTML,4.0,17.0,,"2,000",Abacus Data,online
 60,5.0,False,38.0,"September 19, 2018",±2.1 pp,8.0,30.0,PDF,8.0,17.0,,"5,769",DART,online
+61,5.0,False,40.0,"March 27, 2019",±3.5 pp,,30.0,HTML,10.0,21.0,,"1,002",Ipsos,online
+62,5.0,False,37.0,"March 25, 2019",±2 pp,8.0,28.0,PDF,9.0,17.0,4.0,"5,807",Angus Reid,online
+63,3.9,False,34.6,"March 22, 2019",±3.1 pp,8.3,32.5,PDF,2.1,19.4,0.6,"1,000 (1/4)",Nanos Research,telephone (rolling)
+64,1.0,False,41.0,"March 20, 2019",±3 pp,6.0,35.0,PDF,6.0,14.0,2.0,"1,490",Forum Research,IVR
+65,4.0,False,37.0,"March 20, 2019",±2.51 pp,10.0,31.0,PDF,6.0,14.0,3.0,"1,513",Léger,online
+66,5.0,,38.0,"September 14, 2018",±2.5 pp,7.0,36.0,HTML,2.0,15.0,0.0,"1,486",Campaign Research,online
+67,2.0,,31.4,"September 14, 2018",±3.1 pp,5.8,41.1,PDF,9.7,14.9,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+68,2.5,,32.8,"September 7, 2018",±3.1 pp,6.5,39.9,PDF,7.1,14.9,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+69,3.4,,32.4,"August 31, 2018",±3.1 pp,6.7,39.9,PDF,7.5,15.8,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+70,3.0,,34.0,"August 25, 2018",±3.1 pp,6.0,37.0,HTML,3.0,18.0,0.0,"1,000",Abacus Data,online
+71,2.9,,34.4,"August 24, 2018",±3.1 pp,6.3,38.8,PDF,4.4,16.5,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+72,3.0,,33.0,"August 20, 2018",±2.5 pp,8.0,37.0,HTML,4.0,18.0,0.0,"1,500",Abacus Data,online
+73,3.2,,33.9,"August 17, 2018",±3.1 pp,5.7,37.5,PDF,3.6,19.0,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+74,2.0,,42.0,"August 12, 2018",±3 pp,4.0,36.0,PDF,6.0,15.0,0.0,"1,777",Forum Research,IVR
+75,3.2,,35.1,"August 10, 2018",±3.1 pp,4.8,35.8,PDF,0.7,20.1,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+76,2.3,,36.6,"August 3, 2018",±3.1 pp,5.2,36.9,PDF,0.3,17.8,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+77,2.2,,35.2,"July 27, 2018",±3.1 pp,6.6,35.8,PDF,0.6,19.1,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+78,4.0,,32.1,"July 26, 2018",±2.7 pp,9.3,34.9,Twitter,2.8,17.3,0.0,"1,302",EKOS,IVR
+79,3.0,,34.0,"July 22, 2018",±2.2 pp,7.0,36.0,HTML,2.0,19.0,0.0,"2,000",Abacus Data,online
+80,2.0,,35.9,"July 20, 2018",±3.1 pp,6.1,35.8,PDF,0.1,19.0,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+81,2.4,,36.9,"July 17, 2018",±1.01 pp,7.0,39.4,HTML,2.5,11.8,0.0,"9,384",Mainstreet Research,IVR
+82,2.0,,32.0,"July 16, 2018",±3.5 pp,,39.0,HTML,7.0,21.0,0.0,"1,000",Ipsos,online
+83,1.8,,34.5,"July 13, 2018",±3.1 pp,7.1,37.3,PDF,2.8,18.4,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+84,2.4,,33.4,"July 6, 2018",±3.1 pp,6.8,35.7,PDF,2.3,20.3,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+85,3.0,,37.0,"June 29, 2018",±3.5 pp,,33.0,HTML,4.0,21.0,0.0,"1,002",Ipsos,online
+86,2.7,,33.1,"June 29, 2018",±3.1 pp,5.4,36.5,PDF,3.4,20.8,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+87,3.6,,32.0,"June 22, 2018",±3.1 pp,5.7,36.7,PDF,4.7,20.6,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+88,3.0,,36.0,"June 18, 2018",±2.5 pp,8.0,34.0,HTML,2.0,18.0,0.0,"1,579",Campaign Research,online
+89,5.0,,36.0,"June 15, 2018",±3.5 pp,,32.0,HTML,4.0,20.0,0.0,"1,001",Ipsos,online
+90,4.1,,32.5,"June 15, 2018",±3.1 pp,5.1,36.9,PDF,4.4,19.9,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+91,4.0,,32.0,"June 14, 2018",±3.1 pp,9.0,36.0,PDF,4.0,16.0,0.0,"1,023",Angus Reid,online
+92,4.1,,33.0,"June 8, 2018",±3.1 pp,4.8,35.3,PDF,2.3,22.0,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+93,4.4,,34.0,"June 1, 2018",±3.1 pp,5.4,34.1,PDF,0.1,21.2,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+94,2.0,,44.0,"May 31, 2018",±3 pp,5.0,31.0,PDF,13.0,17.0,0.0,969,Forum Research,IVR
+95,4.0,,36.0,"May 25, 2018",±3.1 pp,6.4,33.0,PDF,3.0,19.8,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+96,3.6,,34.0,"May 18, 2018",±3.1 pp,5.9,35.1,PDF,1.1,20.1,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+97,2.0,,46.0,"May 16, 2018",±3 pp,4.0,30.0,PDF,16.0,18.0,0.0,"1,484",Forum Research,IVR
+98,4.0,,38.0,"May 14, 2018",,7.0,35.0,PDF,3.0,15.0,0.0,"2,327",Innovative Research,online
+99,3.7,,34.4,"May 11, 2018",±3.1 pp,6.0,36.1,PDF,1.7,18.5,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+100,2.0,,36.0,"May 10, 2018",±2.1 pp,,39.0,HTML,3.0,15.0,0.0,"2,103",Léger,online
+101,4.2,,33.2,"May 4, 2018",±3.1 pp,5.4,38.0,PDF,4.8,17.6,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+102,4.0,,38.0,"May 2, 2018",±3.1 pp,6.0,35.0,PDF,3.0,16.0,0.0,"1,000",Innovative Research,telephone
+103,3.0,,35.0,"April 30, 2018",±2.6 pp,,36.0,HTML,1.0,20.0,0.0,"1,907",Ipsos,online
+104,4.4,,30.6,"April 27, 2018",±3.1 pp,5.9,39.2,PDF,8.6,18.2,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+105,4.0,,43.0,"April 20, 2018",±2 pp,8.0,30.0,PDF,13.0,14.0,0.0,"1,585",Forum Research,IVR
+106,3.7,,31.6,"April 20, 2018",±3.1 pp,7.0,38.2,PDF,6.6,17.9,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+107,2.6,,37.1,"April 18, 2018",±1.01 pp,5.9,40.4,HTML,3.3,11.9,0.0,"9,401",Mainstreet Research,IVR
+108,3.8,,29.2,"April 13, 2018",±3.1 pp,8.2,41.1,PDF,11.9,15.8,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+109,3.0,,32.9,"April 6, 2018",±3.1 pp,7.0,38.2,PDF,5.3,17.2,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+110,2.4,,33.7,"March 29, 2018",±3.1 pp,6.5,39.1,PDF,5.4,16.4,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+111,3.0,,38.0,"March 23, 2018",±3.5 pp,,31.0,HTML,7.0,23.0,0.0,"1,003",Ipsos,online
+112,3.1,,34.7,"March 23, 2018",±3.1 pp,5.5,38.1,PDF,3.4,16.8,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+113,3.5,,34.8,"March 16, 2018",±3.1 pp,6.2,35.9,PDF,1.1,18.5,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+114,4.0,,40.0,"March 15, 2018",±2 pp,6.0,30.0,PDF,10.0,19.0,0.0,"5,423",Angus Reid,online
+115,4.5,,33.1,"March 9, 2018",±3.1 pp,6.7,35.8,PDF,2.7,19.3,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+116,3.0,,38.0,"March 8, 2018",±2.5 pp,5.0,38.0,PDF,0.0,14.0,0.0,"1,536",Léger,online
+117,3.0,,33.0,"March 4, 2018",±2.2 pp,8.0,36.0,PDF,3.0,18.0,0.0,"4,023",Abacus Data,online
+118,4.0,,32.7,"March 2, 2018",±3.1 pp,7.1,36.5,PDF,3.8,19.0,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+119,3.0,,38.0,"March 1, 2018",±3.5 pp,,33.0,PDF,5.0,21.0,0.0,"1,001",Ipsos,online
+120,2.0,,46.0,"March 1, 2018",±3 pp,3.0,34.0,PDF,12.0,14.0,0.0,941,Forum Research,IVR
+121,3.8,,31.5,"February 23, 2018",±3.1 pp,6.9,37.7,PDF,6.2,19.2,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+122,3.3,,30.8,"February 16, 2018",±3.1 pp,8.0,36.6,PDF,5.8,20.3,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+123,4.0,,32.0,"February 10, 2018",±2.1 pp,7.0,39.0,HTML,7.0,16.0,0.0,"2,227",Campaign Research,online
+124,3.1,,30.4,"February 9, 2018",±3.1 pp,8.8,38.1,PDF,7.7,18.5,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+125,3.0,,30.3,"February 2, 2018",±3.1 pp,7.6,38.1,PDF,7.8,19.7,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+126,4.0,,32.0,"January 28, 2018",±2.7 pp,6.0,39.0,PDF,7.0,18.0,0.0,"1,411",Abacus Data,online
+127,3.5,,30.6,"January 26, 2018",±3.1 pp,7.5,37.8,PDF,7.2,19.9,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+128,3.0,,43.0,"January 24, 2018",±3 pp,3.0,38.0,PDF,5.0,12.0,0.0,"1,408",Forum Research,IVR
+129,3.7,,34.4,"January 19, 2018",±3.1 pp,6.0,37.9,PDF,3.5,17.3,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+130,3.8,,33.8,"January 12, 2018",±3.1 pp,4.5,37.0,PDF,3.2,20.0,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+131,4.0,,29.0,"January 11, 2018",±2.3 pp,7.0,42.0,HTML,13.0,16.0,0.0,"1,887",Campaign Research,online
+132,4.4,,34.5,"January 6, 2018",±0.99 pp,7.7,40.3,HTML,5.8,13.1,0.0,"9,830",Mainstreet Research,IVR
+133,3.7,,30.7,"January 5, 2018",±3.1 pp,4.8,40.9,PDF,10.2,19.5,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+134,3.5,,30.1,"December 29, 2017",±3.1 pp,4.2,41.6,PDF,11.5,20.1,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+135,3.3,,29.1,"December 22, 2017",±3.1 pp,4.2,42.8,PDF,13.7,20.0,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+136,3.4,,29.3,"December 15, 2017",±3.1 pp,5.7,41.9,PDF,12.6,19.1,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+137,5.0,,39.0,"December 14, 2017",±3 pp,5.0,38.0,PDF,1.0,12.0,0.0,"1,284",Forum Research,IVR
+138,5.0,,31.0,"December 14, 2017",±2.4 pp,,38.0,PDF,7.0,20.0,0.0,"2,098",Ipsos,online
+139,3.8,,30.3,"December 8, 2017",±3.1 pp,6.7,40.7,PDF,10.4,17.5,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+140,4.2,,30.7,"December 1, 2017",±3.1 pp,6.9,40.1,PDF,9.4,16.5,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+141,4.0,,34.0,"November 30, 2017",±2.4 pp,8.0,40.0,PDF,6.0,13.0,0.0,"1,609",Léger,online
+142,4.4,,30.6,"November 24, 2017",±3.1 pp,6.9,38.8,PDF,8.2,17.2,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+143,5.0,,30.7,"November 17, 2017",±3.1 pp,7.0,39.3,PDF,8.6,16.6,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+144,4.0,,32.0,"November 14, 2017",±2.6 pp,6.0,40.0,PDF,8.0,18.0,0.0,"1,500",Abacus Data,online
+145,5.3,,30.9,"November 10, 2017",±3.1 pp,6.0,38.3,PDF,7.4,17.5,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+146,5.0,,30.0,"November 9, 2017",±1.9 pp,7.0,38.0,HTML,8.0,19.0,0.0,"2,616",Campaign Research,online
+147,6.0,,38.0,"November 6, 2017",±3 pp,6.0,36.0,PDF,2.0,14.0,0.0,"1,281",Forum Research,IVR
+148,5.9,,29.6,"November 3, 2017",±3.1 pp,6.4,36.6,PDF,7.0,19.0,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+149,6.1,,29.6,"October 27, 2017",±3.1 pp,6.6,36.1,PDF,6.5,18.5,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+150,4.0,,33.0,"October 26, 2017",±3.1 pp,7.0,35.0,HTML,2.0,20.0,0.0,"1,005",Insights West,online
+151,4.0,,30.0,"October 25, 2017",±3.5 pp,,38.0,PDF,8.0,23.0,0.0,"1,001",Ipsos,online
+152,4.0,,30.0,"October 25, 2017",±2.5 pp,7.0,42.0,PDF,12.0,15.0,0.0,"1,534",Léger,online
+153,5.0,,35.0,"October 23, 2017",±2.6 pp,5.0,39.0,PDF,4.0,15.0,0.0,"1,500",Abacus Data,online
+154,6.3,,30.8,"October 20, 2017",±3.1 pp,6.9,35.0,PDF,4.2,17.7,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+155,5.0,,30.0,"October 16, 2017",,7.0,38.0,PDF,8.0,20.0,0.0,"2,000",Environics,online
+156,7.2,,31.3,"October 13, 2017",±3.1 pp,7.3,34.6,PDF,3.3,16.3,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+157,4.0,,35.0,"October 12, 2017",±2.5 pp,6.0,35.0,PDF,0.0,18.0,0.0,"1,492",Angus Reid,online
+158,4.0,,30.0,"October 11, 2017",±2.2 pp,8.0,38.0,HTML,8.0,19.0,0.0,"2,002",Campaign Research,online
+159,6.6,,32.0,"October 6, 2017",±3.1 pp,5.6,36.9,PDF,4.9,15.4,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+160,4.0,,36.0,"October 4, 2017",±2.5 pp,8.0,37.0,HTML,1.0,14.0,0.0,"1,477",Angus Reid,online
+161,4.5,,33.3,"October 1, 2017",±1.4 pp,8.9,34.4,PDF,1.1,14.5,0.0,"4,839",EKOS,IVR
+162,6.3,,31.2,"September 29, 2017",±3.1 pp,6.7,38.1,PDF,6.9,15.2,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+163,5.0,,32.0,"September 27, 2017",±3.5 pp,,39.0,PDF,7.0,20.0,0.0,"1,001",Ipsos,online
+164,6.1,,32.5,"September 22, 2017",±3.1 pp,5.7,38.5,PDF,6.0,14.6,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+165,6.0,,30.0,"September 15, 2017",±3.1 pp,5.5,40.9,PDF,10.9,15.5,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+166,5.0,,39.0,"September 14, 2017",±3 pp,4.0,35.0,PDF,4.0,15.0,0.0,"1,350",Forum Research,IVR
+167,5.0,,30.0,"September 11, 2017",±2.3 pp,6.0,42.0,HTML,12.0,16.0,0.0,"1,770",Campaign Research,online
+168,4.6,,30.1,"September 8, 2017",±3.1 pp,5.9,42.0,PDF,11.9,15.9,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+169,3.0,,31.0,"September 3, 2017",±2.6 pp,6.0,43.0,PDF,12.0,17.0,0.0,"1,512",Abacus Data,online
+170,4.9,,32.0,"September 1, 2017",±3.1 pp,4.7,41.2,PDF,9.2,15.7,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+171,4.0,,32.0,"August 31, 2017",±2.19 pp,5.0,43.0,HTML,11.0,15.0,0.0,"2,000",Mainstreet Research,telephone
+172,4.3,,30.8,"August 25, 2017",±3.1 pp,5.0,41.9,PDF,11.1,16.4,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+173,5.1,,31.0,"August 18, 2017",±3.1 pp,4.9,39.4,PDF,8.4,18.2,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+174,4.0,,35.0,"August 17, 2017",±3 pp,4.0,42.0,PDF,7.0,14.0,0.0,"1,150",Forum Research,IVR
+175,5.2,,31.1,"August 11, 2017",±3.1 pp,5.4,37.8,PDF,6.7,19.2,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+176,6.4,,29.3,"August 4, 2017",±3.1 pp,5.4,37.5,PDF,8.2,20.2,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+177,5.8,,29.1,"July 28, 2017",±3.1 pp,6.8,36.7,PDF,7.6,20.0,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+178,4.2,,30.3,"July 21, 2017",±3.1 pp,6.2,39.0,PDF,8.7,18.4,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+179,3.0,,31.0,"July 18, 2017",±2.2 pp,5.0,43.0,HTML,12.0,16.0,0.0,"2,036",Abacus Data,online
+180,5.9,,31.2,"July 14, 2017",±3.1 pp,6.1,38.3,PDF,7.1,16.2,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+181,4.0,,31.0,"July 10, 2017",±2 pp,5.0,40.0,HTML,9.0,19.0,0.0,"1,540",Campaign Research,online
+182,5.3,,33.0,"July 7, 2017",±3.1 pp,6.4,39.8,PDF,6.8,13.6,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+183,6.3,,31.6,"June 30, 2017",±3.1 pp,7.6,38.9,PDF,7.3,14.0,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+184,6.8,,31.1,"June 23, 2017",±3.1 pp,6.2,38.3,PDF,7.2,15.7,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+185,3.7,,33.0,"June 19, 2017",±1.3 pp,8.5,35.3,HTML,2.3,15.2,0.0,"5,658",EKOS,IVR
+186,6.7,,30.9,"June 16, 2017",±3.1 pp,6.5,37.5,PDF,6.6,16.5,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+187,5.0,,30.0,"June 12, 2017",±2 pp,7.0,39.0,HTML,9.0,19.0,0.0,"2,767",Campaign Research,online
+188,4.0,,34.0,"June 12, 2017",±2 pp,6.0,37.0,PDF,3.0,17.0,0.0,"5,406",Angus Reid,online
+189,6.1,,30.5,"June 9, 2017",±3.1 pp,7.1,36.8,PDF,6.3,17.3,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+190,5.0,,34.0,"June 8, 2017",±3 pp,6.0,42.0,PDF,8.0,12.0,0.0,"1,483",Forum Research,IVR
+191,6.2,,28.1,"June 2, 2017",±3.1 pp,7.3,40.0,PDF,11.9,16.5,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+192,4.0,,33.0,"May 31, 2017",±2.2 pp,6.0,40.0,HTML,7.0,16.0,0.0,"1,958",Angus Reid,online
+193,4.0,,33.0,"May 29, 2017",±1.85 pp,5.0,41.0,HTML,8.0,17.0,0.0,"2,800",Mainstreet Research,IVR
+194,5.7,,28.6,"May 26, 2017",±3.1 pp,7.2,40.3,PDF,11.7,16.7,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+195,5.2,,27.9,"May 19, 2017",±3.1 pp,7.4,42.1,PDF,14.2,16.2,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+196,5.0,,25.0,"May 18, 2017",±2.5 pp,6.0,46.0,PDF,21.0,16.0,0.0,"1,529",Léger,online
+197,5.0,,31.0,"May 15, 2017",±1.85 pp,5.0,41.0,HTML,10.0,18.0,0.0,"2,800",Mainstreet Research,IVR
+198,3.0,,27.0,"May 13, 2017",±2 pp,7.0,43.0,HTML,16.0,19.0,0.0,"1,969",Campaign Research,online
+199,4.0,,27.0,"May 12, 2017",±2.9 pp,5.0,43.0,PDF,16.0,20.0,0.0,"1,182",Abacus Data,online
+200,6.0,,28.1,"May 12, 2017",±3.1 pp,5.6,42.8,PDF,14.7,15.9,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+201,5.1,,29.0,"May 5, 2017",±3.1 pp,4.1,41.8,PDF,12.8,18.8,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+202,4.4,,29.6,"April 28, 2017",±3.1 pp,3.6,43.0,PDF,13.4,18.5,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+203,5.0,,35.0,"April 24, 2017",±3 pp,7.0,35.0,PDF,0.0,17.0,0.0,"1,479",Forum Research,IVR
+204,4.0,,30.4,"April 21, 2017",±3.1 pp,2.9,42.0,PDF,11.6,19.0,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+205,3.4,,32.4,"April 14, 2017",±3.1 pp,3.1,41.4,PDF,9.0,18.7,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+206,6.0,,29.0,"April 11, 2017",±2 pp,6.0,38.0,HTML,9.0,19.0,0.0,"1,970",Campaign Research,online
+207,4.0,,32.6,"April 7, 2017",±3.1 pp,3.5,40.3,PDF,7.7,18.0,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+208,5.2,,29.6,"March 31, 2017",±3.1 pp,4.6,40.6,PDF,11.0,18.4,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+209,5.0,,32.0,"March 30, 2017",±3.5 pp,,39.0,PDF,7.0,20.0,0.0,"1,001",Ipsos,online
+210,4.8,,29.2,"March 24, 2017",±3.1 pp,5.2,42.5,PDF,13.3,16.1,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+211,6.0,,38.0,"March 23, 2017",±3 pp,4.0,36.0,PDF,2.0,15.0,0.0,"1,029",Forum Research,IVR
+212,4.0,,29.0,"March 17, 2017",±2.2 pp,6.0,44.0,HTML,15.0,16.0,0.0,"2,029",Stratcom,online
+213,4.7,,28.5,"March 17, 2017",±3.1 pp,5.2,41.9,PDF,13.4,17.1,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+214,4.9,,28.1,"March 10, 2017",±3.1 pp,6.0,41.4,PDF,13.3,17.0,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+215,6.0,,27.0,"March 7, 2017",±3 pp,5.0,43.0,HTML,16.0,16.0,0.0,"1,886",Campaign Research,online/IVR
+216,5.0,,30.5,"March 3, 2017",±3.1 pp,5.1,39.6,PDF,9.1,17.2,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+217,7.0,,35.0,"February 26, 2017",±3 pp,4.0,39.0,PDF,4.0,15.0,0.0,"1,340",Forum Research,IVR
+218,5.4,,31.0,"February 24, 2017",±3.1 pp,5.2,38.9,PDF,7.9,16.8,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+219,4.0,,33.0,"February 19, 2017",±2.6 pp,6.0,40.0,PDF,7.0,16.0,0.0,"1,500",Abacus Data,online
+220,6.3,,29.6,"February 17, 2017",±3.1 pp,5.7,39.3,PDF,9.7,16.9,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+221,4.8,,32.9,"February 10, 2017",±3.1 pp,5.3,37.9,PDF,5.0,16.9,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+222,6.0,,34.0,"February 6, 2017",±3 pp,6.0,34.0,HTML,0.0,16.0,0.0,"1,457",Campaign Research,IVR
+223,4.9,,32.5,"February 3, 2017",±3.1 pp,5.9,38.0,PDF,5.5,16.4,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+224,5.1,,32.1,"January 27, 2017",±3.1 pp,5.5,39.1,PDF,7.0,16.3,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+225,5.0,,30.0,"January 25, 2017",±3.5 pp,,41.0,PDF,11.0,19.0,0.0,"1,000",Ipsos,online
+226,4.0,,36.0,"January 21, 2017",±3 pp,5.0,42.0,PDF,6.0,12.0,0.0,"1,332",Forum Research,IVR
+227,5.1,,31.2,"January 20, 2017",±3.1 pp,5.9,39.4,PDF,8.2,16.3,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+228,6.1,,28.4,"January 13, 2017",±3.1 pp,6.1,41.4,PDF,13.0,16.2,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+229,5.2,,28.5,"January 6, 2017",±3.1 pp,5.4,43.0,PDF,14.5,16.2,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+230,5.5,,27.9,"December 30, 2016",±3.1 pp,5.9,43.0,PDF,15.1,16.7,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+231,5.6,,28.3,"December 23, 2016",±3.1 pp,5.6,42.0,PDF,13.7,16.9,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+232,4.9,,27.4,"December 16, 2016",±3.1 pp,5.6,43.6,PDF,16.2,16.7,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+233,4.0,,30.0,"December 14, 2016",±2.3 pp,5.0,44.0,PDF,14.0,16.0,0.0,"1,848",Abacus Data,online
+234,5.4,,26.7,"December 9, 2016",±3.1 pp,6.0,43.2,PDF,16.5,16.5,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+235,5.0,,34.0,"December 7, 2016",±3 pp,6.0,42.0,PDF,8.0,12.0,0.0,"1,304",Forum Research,IVR
+236,4.8,,26.0,"December 2, 2016",±3.1 pp,6.8,42.9,PDF,16.9,17.4,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+237,4.4,,25.1,"November 25, 2016",±3.1 pp,6.4,44.7,PDF,19.6,17.9,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+238,2.4,,31.2,"November 22, 2016",±2.2 pp,8.2,41.2,PDF,10.0,13.0,0.0,"1,949",EKOS,IVR
+239,5.6,,28.7,"November 18, 2016",±3.1 pp,5.6,42.9,PDF,14.2,16.0,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+240,5.0,,25.0,"November 13, 2016",±2.1 pp,7.0,46.0,PDF,21.0,17.0,0.0,"2,200",Abacus Data,online
+241,4.3,,26.2,"November 11, 2016",±3.1 pp,6.2,46.3,PDF,20.1,15.4,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+242,4.0,,28.0,"November 10, 2016",±3 pp,5.0,51.0,PDF,23.0,11.0,0.0,"1,474",Forum Research,IVR
+243,4.0,,29.0,"November 6, 2016",±1.38 pp,5.0,49.0,HTML,20.0,13.0,0.0,"5,066",Mainstreet Research,IVR
+244,5.5,,29.6,"November 4, 2016",±3.1 pp,5.5,44.9,PDF,15.3,13.8,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+245,5.3,,29.6,"October 28, 2016",±3.1 pp,6.0,44.5,PDF,14.9,13.3,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+246,4.0,,27.5,"October 21, 2016",±3.1 pp,6.8,46.6,PDF,19.1,13.9,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+247,3.3,,26.4,"October 18, 2016",±2.4 pp,7.8,46.6,PDF,20.2,14.1,0.0,"1,622",EKOS,online/telephone
+248,4.3,,26.2,"October 14, 2016",±3.1 pp,6.2,46.3,PDF,20.1,15.4,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+249,5.0,,30.0,"October 12, 2016",±3 pp,4.0,49.0,PDF,19.0,12.0,0.0,"1,437",Forum Research,IVR
+250,5.0,,28.0,"October 12, 2016",±2.6 pp,6.0,45.0,PDF,17.0,14.0,0.0,"1,498",Abacus Data,online
+251,4.3,,25.9,"October 7, 2016",±3.1 pp,5.7,45.9,PDF,20.0,16.2,0.0,"1,000 (1/4)",Nanos Research,telephone (rolling)
+252,4.5,,26.2,"September 30, 2016",±3.1 pp,5.0,45.8,PDF,19.6,16.7,0.0,"1,000",Nanos Research,telephone (rolling)
+253,6.0,,34.0,"September 21, 2016",±3 pp,3.0,47.0,PDF,13.0,9.0,0.0,"1,326",Forum Research,IVR
+254,4.0,,29.0,"September 8, 2016",±1.35 pp,4.0,51.0,HTML,22.0,12.0,0.0,"5,250",Mainstreet Research,IVR
+255,5.0,,30.0,"September 7, 2016",±3 pp,4.0,48.0,PDF,18.0,11.0,0.0,"1,370",Forum Research,IVR
+256,4.0,,25.0,"September 1, 2016",±2.5 pp,5.0,53.0,PDF,28.0,12.0,0.0,"1,535",Léger,online
+257,4.0,,28.0,"August 25, 2016",±2.2 pp,5.0,46.0,PDF,18.0,16.0,0.0,"2,010",Abacus Data,online
+258,4.0,,31.0,"August 6, 2016",±3 pp,4.0,50.0,PDF,19.0,10.0,0.0,"1,345",Forum Research,IVR
+259,2.8,,28.5,"July 14, 2016",±3.1 pp,5.9,45.6,PDF,17.1,15.5,0.0,"1,003",EKOS,online/telephone
+260,5.0,,28.0,"July 5, 2016",±3 pp,3.0,52.0,PDF,24.0,11.0,0.0,"1,429",Forum Research,IVR
+261,5.0,,28.0,"June 16, 2016",±2.6 pp,6.0,44.0,PDF,16.0,16.0,0.0,"1,500",Abacus Data,online
+262,4.0,,32.0,"June 7, 2016",±2 pp,4.0,49.0,PDF,17.0,10.0,0.0,"2,271",Forum Research,IVR
+263,4.1,,26.9,"June 7, 2016",±2.0 pp,7.8,44.7,PDF,17.8,12.4,0.0,"2,371",EKOS,IVR
+264,4.0,,30.0,"May 24, 2016",±3.5 pp,,46.0,HTML,16.0,15.0,0.0,"1,002",Ipsos,online
+265,4.0,,27.0,"May 20, 2016",±2.2 pp,7.0,46.0,PDF,19.0,15.0,0.0,"2,000",Abacus Data,online
+266,4.0,,29.0,"May 11, 2016",±3 pp,3.0,52.0,PDF,23.0,11.0,0.0,"1,517",Forum Research,IVR
+267,3.0,,30.0,"April 27, 2016",±1.39 pp,4.0,49.0,HTML,19.0,14.0,0.0,"4,998",Mainstreet Research,IVR
+268,4.2,,25.8,"April 22, 2016",±3.1 pp,5.5,43.2,HTML,17.4,19.3,0.0,"1,000",Nanos Research,telephone
+269,3.0,,30.0,"April 15, 2016",±1.38 pp,5.0,48.0,HTML,18.0,14.0,0.0,"5,012",Mainstreet Research,IVR
+270,4.4,,28.5,"April 15, 2016",±2.9 pp,6.7,44.1,PDF,15.6,12.0,0.0,"1,176",EKOS,IVR
+271,5.0,,26.0,"April 13, 2016",±2.6 pp,5.0,49.0,PDF,23.0,13.0,0.0,"1,500",Abacus Data,online
+272,6.0,,28.0,"April 5, 2016",±3 pp,3.0,51.0,PDF,23.0,12.0,0.0,"1,455",Forum Research,IVR
+273,5.0,,30.0,"March 30, 2016",,6.0,46.0,PDF,16.0,12.0,0.0,"2,456",Innovative Research,online
+274,4.8,,31.7,"March 29, 2016",±2.2 pp,6.4,42.1,PDF,10.4,11.7,0.0,"2,019",EKOS,IVR
+275,4.0,,28.0,"March 23, 2016",±2.6 pp,6.0,47.0,PDF,19.0,14.0,0.0,"1,500",Abacus Data,online
+276,4.0,,29.0,"March 18, 2016",±2.6 pp,6.0,44.0,PDF,15.0,16.0,0.0,"1,500",Abacus Data,online
+277,4.0,,34.0,"March 15, 2016",±2 pp,3.0,46.0,PDF,12.0,12.0,0.0,"1,567",Forum Research,IVR
+278,3.0,,32.0,"February 17, 2016",±3 pp,5.0,49.0,PDF,17.0,10.0,0.0,"1,406",Forum Research,IVR
+279,3.0,,27.0,"February 4, 2016",±2.1 pp,5.0,49.0,PDF,22.0,15.0,0.0,"1,524",Léger,online
+280,3.9,,25.3,"January 18, 2016",±1.9 pp,7.0,46.7,PDF,21.4,15.9,0.0,"2,598",EKOS,online/telephone
+281,3.0,,32.0,"January 15, 2016",±1.39 pp,5.0,44.0,HTML,12.0,16.0,0.0,"4,937",Mainstreet Research,IVR
+282,5.0,,28.0,"January 12, 2016",±2.6 pp,5.0,45.0,PDF,17.0,17.0,0.0,"1,500",Abacus Data,online
+283,3.4,,27.2,"December 10, 2015",±2.2 pp,6.7,46.3,PDF,19.1,15.3,0.0,"1,956",EKOS,online/telephone
+284,4.0,,32.0,"December 8, 2015",±3 pp,4.0,46.0,PDF,14.0,13.0,0.0,"1,369",Forum Research,IVR
+285,5.0,,24.0,"November 25, 2015",±2.6 pp,5.0,49.0,PDF,25.0,16.0,0.0,"1,500",Abacus Data,online
+286,4.0,,37.0,"November 17, 2015",±3 pp,3.0,45.0,PDF,8.0,10.0,0.0,909,Forum Research,IVR
+287,4.0,,25.0,"November 7, 2015",±3 pp,3.0,55.0,PDF,30.0,12.0,0.0,"1,256",Forum Research,IVR
